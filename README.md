@@ -180,13 +180,13 @@
 
 Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
-### 📂 Projets académiques — Détails
+📂 Projets académiques — Détails
 
-#### 🧠 1. Quantification métabolique cérébrale (TEP / IRM) — Alzheimer
+🧠 1. Quantification métabolique cérébrale (TEP / IRM) — Alzheimer
 
 > **Cadre :** Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
-
-- **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
+>
+> - **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
 - **Technique :**
   - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
   - Calcul de SUV et SUVR (zone de référence : cervelet).
