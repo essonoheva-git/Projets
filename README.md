@@ -174,142 +174,100 @@
 
 <details open>
 
-<summary><b>🇫🇷 Cliquez ici pour fermer / ouvrir la version française</b></summary>
+## 🇫🇷 Français
 
-📌 À propos
+### 📄 Curriculum Vitae
+* 📥 **[Télécharger mon CV complet (PDF)](./CV_stage_fr.pdf)**
+* 📑 **Domaines :** Radiophysique Médicale, Dosimétrie, Imagerie Médicale & Traitement d'Images.
 
-Étudiante en Master 2 spécialisée en physique médicale, dosimétrie et imagerie (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
+### 📌 À propos
+Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
-📂 Projets académiques — Détails
+### 📂 Projets académiques
 
-🧠 1. Quantification métabolique cérébrale (TEP / IRM) — Alzheimer
+#### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
+* **Cadre :** Projet de Master 1 — *Centre de Recherche Cerveau et Cognition (CerCo)* (Mars 2026 – Mai 2026)
+* **Points clés :** 
+  * Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation).
+  * Calcul des métriques SUV et SUVR (zone de référence : cervelet).
+  * Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).
+* **Lien :** [`/projects/01-pet-alzheimer-quantification`](./projects/01-pet-alzheimer-quantification)
 
-> **Cadre :** Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
->
-> - **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
-- **Technique :**
-  - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
-  - Calcul de SUV et SUVR (zone de référence : cervelet).
-  - Analyse quantitative comparative du métabolisme (cortex frontal, précunéus, cingulaire postérieur).
+#### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
+* **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
+* **Points clés :** 
+  * Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
+  * Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
+  * Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
+* **Lien :** [`/projects/02-cpp-dicom-viewer`](./projects/02-cpp-dicom-viewer)
 
-📥 **Ressources :** [📄 Rapport complet](./rapport_quantification_TEP.pdf) · [📊 Présentation](./presentation_quantification_TEP.pdf)
+#### 🧬 3. Vectorisation et traitement de la maladie de Huntington
+* **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
+* **Points clés :** 
+  * Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
+  * Analyse de données précliniques sur la réduction de la protéine mHTT.
+* **Lien :** [`/projects/03-vectorization-huntington`](./projects/03-vectorization-huntington)
 
----
-
-💻 2. Interface de visualisation & traitement d'images médicales 3D (C++)
-
-> **Cadre :** Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
-
-- **Sujet :** Conception d'une interface interactive de visualisation et de traitement de données scanner DICOM.
-- **Technique :**
-  - Implémentation d'un filtre gaussien 2D par convolution spatiale et de tables de correspondance (LUT / Palette Jet).
-  - Simulation de faisceau de radiothérapie (pénétration de dose) et reconstruction de radiographies numériques (DRR).
-  - Segmentation anatomique temps réel (os / tissus mous).
-
-📥 **Ressources :** [📊 Présentation du projet C++](./presentation_projet_cpp.pdf)
-
----
-🧬 3. Vectorisation & Ciblage thérapeutique — Maladie de Huntington
-
-> **Cadre :** Licence 3 — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
-
-- **Sujet :** Étude des stratégies de vectorisation pour le franchissement de la barrière hémato-encéphalique.
-- **Technique :**
-  - Revue de littérature ciblée sur les vecteurs viraux (AAV5) et non-viraux pour le transfert de microRNA (RNAi).
-  - Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
-
-📥 **Ressources :** [📄 Article de recherche (format IEEE)](./vectorisation_ieee.pdf)
-
-🔬 Stages & Expériences — Détails
-
-🏥 Stagiaire en Physique Médicale — *Institut de Cancérologie d'Akanda (ICA)*
-
-**Période :** Juin 2026 – Juil 2026
-
-- Tests d'assurance qualité (AQ) quotidiens, hebdomadaires et mensuels (LINAC, CT scanner, ISOMED).
-- Initiation au TPS : contourage (OAR, CTV, PTV), balistique et choix des énergies.
+### 🔬 Stages & Expériences
+* **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
+  * Assurance qualité sur LINAC, simulateur CT et calibrateur de dose ISOMED.
+  * Contourage TPS (OAR, CTV, PTV) et balistique de traitement.
+* **Stagiaire en Recherche** | *Groupe PRHE — Laboratoire LAPLACE* (Juin 2025 – Juil 2025)
+  * Étude des plasmas froids et espèces réactives (ROS/RNS) pour la décontamination biologique.
 
 ---
 
-🧪 Stagiaire en Recherche (Plasmas) — *Groupe PRHE, Laboratoire LAPLACE*
+## 🇬🇧 English
 
-**Période :** Juin 2025 – Juil 2025
+### 📄 Resume / CV
+* 📥 **[Download full CV (PDF)](./CV_stage_fr.pdf)**
+* 📑 **Fields:** Medical Physics, Dosimetry, Medical Imaging & Image Processing.
 
-- Étude expérimentale des interactions plasma froid / micro-organismes.
-- Analyse de l'efficacité des espèces réactives (ROS/RNS) pour la décontamination biologique.
+### 📌 About
+Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
 
-</details>
+### 📂 Featured Projects
 
-<details>
+#### 🧠 1. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
+* **Context:** Master 1 Project — *Brain and Cognition Research Center (CerCo)* (Mar 2026 – May 2026)
+* **Highlights:** 
+  * 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
+  * SUV and SUVR metrics calculation using the cerebellum as reference region.
+  * Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
+* **Link:** [`/projects/01-pet-alzheimer-quantification`](./projects/01-pet-alzheimer-quantification)
 
-<summary><b>🇬🇧 Click here to expand / collapse the English version</b></summary>
+#### 💻 2. Medical Image Visualization & Processing Interface (C++)
+* **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
+* **Highlights:** 
+  * Interactive 3D visualization tool for DICOM CT datasets built in C++.
+  * Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).
+  * Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.
+* **Link:** [`/projects/02-cpp-dicom-viewer`](./projects/02-cpp-dicom-viewer)
 
-📌 About
+#### 🧬 3. Vectorization Strategies in Huntington’s Disease
+* **Context:** Bachelor's Project — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
+* **Highlights:** 
+  * Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
+  * Analysis of preclinical data regarding mHTT protein knockdown.
+* **Link:** [`/projects/03-vectorization-huntington`](./projects/03-vectorization-huntington)
 
-Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with practical experience in radiotherapy quality assurance, PET metabolic quantification, and C++ software development.
-
-📂 Academic Projects — Details
-
-🧠 1. Brain Metabolic Quantification (PET / MRI) — Alzheimer's Disease
-
-> **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026)
-
-- **Focus:** Quantitative PET analysis of cerebral biomarkers and regional metabolic deficits in Alzheimer's disease.
-- **Methodology:**
-  - Preprocessing of 3D brain volumes using **SPM12** (spatial co-registration, MNI normalization, trilinear interpolation).
-  - SUV and SUVR metrics calculation using the cerebellum as reference region.
-  - Comparative metabolic profile analysis (frontal cortex, precuneus, posterior cingulate).
-
-📥 **Files:** [📄 Full report (FR)](./rapport_quantification_TEP.pdf) · [📊 Slides](./presentation_quantification_TEP.pdf)
-
----
-
-💻 2. Medical Image Visualization & Processing Interface (C++)
-
-> **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
-
-- **Focus:** Interactive 3D visualization platform for DICOM CT scan datasets.
-- **Methodology:**
-  - 2D Gaussian spatial convolution filtering and custom LUT (Jet palette).
-  - Radiotherapy beam penetration simulation and DRR generation.
-  - Real-time anatomical segmentation (bone vs. soft tissue).
-
-📥 **Files:** [📊 C++ project presentation](./presentation_projet_cpp.pdf)
+### 🔬 Clinical & Research Experience
+* **Medical Physics Intern** | *Institut de Cancérologie d’Akanda (ICA)* (Jun 2026 – Jul 2026)
+  * Quality assurance protocols on LINAC, CT Simulator, and ISOMED dose calibrators.
+  * Treatment planning (TPS): OAR/CTV/PTV contouring and beam arrangement.
+* **Research Intern** | *PRHE Group — LAPLACE Laboratory* (Jun 2025 – Jul 2025)
+  * Cold plasma reactive species (ROS/RNS) for biological decontamination.
 
 ---
 
-#### 🧬 3. Vectorization Strategies — Huntington's Disease
+## 🛠️ Technical Skills / Compétences
 
-> **Context:** Bachelor's Thesis — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
-
-- **Focus:** Literature review on targeted drug delivery platforms crossing the blood-brain barrier.
-- **Methodology:**
-  - Review of viral (AAV5) and non-viral vectors for therapeutic microRNA delivery (RNAi).
-  - Analysis of preclinical data (mHTT aggregation reduction, motor recovery).
-
-📥 **Files:** [📄 Scientific review (IEEE)](./vectorisation_ieee.pdf)
-
-### 🔬 Clinical & Research Experience — Details
-
-#### 🏥 Medical Physics Intern — *Institut de Cancérologie d'Akanda (ICA)*
-
-**Period:** Jun 2026 – Jul 2026
-
-- Daily, weekly, and monthly QA protocols on LINAC, CT simulator, ISOMED.
-- TPS initiation: OAR/CTV/PTV contouring, beam setup, energy selection.
-
----
-
-#### 🧪 Research Intern (Plasma Physics) — *PRHE Group, LAPLACE Laboratory*
-
-**Period:** Jun 2025 – Jul 2025
-
-- Experimental study of cold atmospheric plasma / micro-organism interactions.
-- Evaluation of reactive species (ROS/RNS) for biological decontamination.
-
-</details>
-
-<br>
+| Domain / Domaine | Tools & Technologies / Outils |
+| :--- | :--- |
+| **Neuroimaging** | SPM12, MRIcron, MRIcroGL, MNI Space, SUVR |
+| **Programming** | C, C++, MATLAB |
+| **Environments** | VS Code, PyCharm, Qt Creator, Linux (Ubuntu), Windows |
+| **Medical Physics** | Dosimetry, Radiotherapy QA, TPS Contouring, Radiobiology |
 
 ---
 
