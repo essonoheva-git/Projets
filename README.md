@@ -197,7 +197,9 @@
 > **Cadre :** Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 
 - **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
+- 
 - **Technique :**
+  
   - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
   - Calcul de SUV et SUVR (zone de référence : cervelet).
   - Analyse quantitative comparative du métabolisme (cortex frontal, précunéus, cingulaire postérieur).
@@ -211,6 +213,7 @@
 > **Cadre :** Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
 - **Sujet :** Conception d'une interface interactive de visualisation et de traitement de données scanner DICOM.
+
 - **Technique :**
   - Implémentation d'un filtre gaussien 2D par convolution spatiale et de tables de correspondance (LUT / Palette Jet).
   - Simulation de faisceau de radiothérapie (pénétration de dose) et reconstruction de radiographies numériques (DRR).
@@ -225,7 +228,9 @@
 > **Cadre :** Licence 3 — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 
 - **Sujet :** Étude des stratégies de vectorisation pour le franchissement de la barrière hémato-encéphalique.
+  
 - **Technique :**
+  
   - Revue de littérature ciblée sur les vecteurs viraux (AAV5) et non-viraux pour le transfert de microRNA (RNAi).
   - Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
 
