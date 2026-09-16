@@ -1,178 +1,16 @@
-<div align="center">
+# Hegirziana Heva OBONE ESSONO
 
-  <h1>🔬 Hegirziana Heva OBONE ESSONO ⚛️</h1>
+<p align="center">
+  <b>Étudiante en Master 2 Radiophysique Médicale</b> | <i>Medical Physics Master's Student</i><br>
+  Université Toulouse III - Paul Sabatier<br>
+  📍 Toulouse, France | 📧 essono.heva@gmail.com
+</p>
 
-  <p>
-    <b>Étudiante en Master 2 Radiophysique Médicale</b> | <i>Medical Physics Master's Student</i><br>
-    <b>Université Toulouse III - Paul Sabatier</b><br>
-    📍 Toulouse, France
-  </p>
-
-  <br>
-
-  <a href="./CV_stage_fr.pdf">
-    <img src="https://img.shields.io/badge/📄_Download_CV_/_Télécharger-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF"/>
-  </a>
-  &nbsp;
-  <a href="mailto:essono.heva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-essono.heva%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/VOTRE_PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=hegirziana&label=Visiteurs&color=blueviolet&style=for-the-badge" alt="Visiteurs"/>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="#-français">Français</a> • <a href="#-english">English</a>
+</p>
 
 ---
-
-<h2 align="center">🛠️ Compétences & Technologies</h2>
-
-<p align="center"><i>Technical Skills</i></p>
-
-<table align="center">
-  <tr>
-    <td align="right"><b>💻 Langages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🖥️ Systèmes & Outils</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🧠 Imagerie médicale</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SPM12-4B0082?style=flat-square" />
-      <img src="https://img.shields.io/badge/TEP-2E8B57?style=flat-square" />
-      <img src="https://img.shields.io/badge/IRM-2E8B57?style=flat-square" />
-      <img src="https://img.shields.io/badge/CT-2E8B57?style=flat-square" />
-      <img src="https://img.shields.io/badge/TEMP-2E8B57?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>☢️ Dosimétrie</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Radiothérapie_QA-008080?style=flat-square" />
-      <img src="https://img.shields.io/badge/Contourage_OAR%2FCTV%2FPTV-008080?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<h2 align="center">📂 Projets Académiques</h2>
-
-<p align="center"><i>Academic Projects</i></p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 1. Quantification TEP/IRM — Alzheimer</h3>
-      <p><b>Cadre :</b> Master 1 — <i>ToNIC</i><br>
-      <b>Période :</b> Mars – Mai 2026</p>
-      <ul>
-        <li>Prétraitement SPM12 (recalage, MNI)</li>
-        <li>Calcul SUV / SUVR (cervelet)</li>
-        <li>Analyse métabolique comparative</li>
-      </ul>
-      <p>
-        <a href="./rapport_quantification_TEP.pdf">
-          <img src="https://img.shields.io/badge/📄_Rapport-PDF-red?style=for-the-badge" />
-        </a><br>
-        <a href="./presentation_quantification_TEP.pdf">
-          <img src="https://img.shields.io/badge/📊_Slides-Présentation-blue?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 2. Interface C++ DICOM</h3>
-      <p><b>Cadre :</b> Master 1 — <i>FSI Toulouse</i><br>
-      <b>Période :</b> Fév – Mai 2026</p>
-      <ul>
-        <li>Filtre gaussien 2D + LUT/Jet</li>
-        <li>Simulation faisceau radiothérapie (DRR)</li>
-        <li>Segmentation temps réel os/tissus</li>
-      </ul>
-      <p>
-        <a href="./presentation_projet_cpp.pdf">
-          <img src="https://img.shields.io/badge/📊_Présentation-Slides-blue?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧬 3. Vectorisation — Huntington</h3>
-      <p><b>Cadre :</b> Licence 3 — <i>SOFTMAT</i><br>
-      <b>Période :</b> Sep 2024 – Jan 2025</p>
-      <ul>
-        <li>Revue vecteurs AAV5 & non-viraux</li>
-        <li>Transfert microRNA (RNAi)</li>
-        <li>Analyse données précliniques mHTT</li>
-      </ul>
-      <p>
-        <a href="./vectorisation_ieee.pdf">
-          <img src="https://img.shields.io/badge/📄_Article-IEEE-blue?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<h2 align="center">🔬 Stages & Expériences</h2>
-
-<p align="center"><i>Internships & Professional Experience</i></p>
-
-<table align="center">
-  <tr>
-    <th>Période</th>
-    <th>Poste</th>
-    <th>Structure</th>
-    <th>Missions clés</th>
-  </tr>
-  <tr>
-    <td><b>Juin – Juil 2026</b></td>
-    <td>🏥 Stagiaire Physique Médicale</td>
-    <td>Institut de Cancérologie d'Akanda (ICA)</td>
-    <td>AQ LINAC/CT/ISOMED · TPS (contourage, balistique)</td>
-  </tr>
-  <tr>
-    <td><b>Juin – Juil 2025</b></td>
-    <td>🧪 Stagiaire Recherche</td>
-    <td>Groupe PRHE — LAPLACE</td>
-    <td>Plasmas froids · ROS/RNS · décontamination biologique</td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<h2 align="center">🌍 Versions Détaillées</h2>
-
-<p align="center"><i>Detailed Versions</i></p>
-
-<details open>
 
 ## 🇫🇷 Français
 
@@ -271,16 +109,13 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 ---
 
-<h2 align="center">📁 Repository Structure</h2>
-
-<p align="center"><i>Structure du Dépôt</i></p>
+## 📁 Directory Structure
 
 ```text
 .
-├── README.md                              # Portfolio bilingue
-├── CV_stage_fr.pdf                        # Curriculum Vitae (PDF)
-├── rapport_quantification_TEP.pdf         # Rapport quantification TEP
-├── presentation_quantification_TEP.pdf    # Slides TEP
-├── presentation_projet_cpp.pdf            # Slides C++ / DICOM
-└── vectorisation_ieee.pdf                 # Article IEEE Huntington
-```
+├── README.md                                 # Portfolio overview (Bilingual)
+├── CV_stage_fr.pdf                           # Curriculum Vitae (PDF)
+└── projects/
+    ├── 01-pet-alzheimer-quantification/     # M1 CerCo project
+    ├── 02-cpp-dicom-viewer/                 # M1 C++ DICOM project
+    └── 03-vectorization-huntington/         # Licence SOFTMAT project
