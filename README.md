@@ -178,7 +178,7 @@
 
 📌 À propos
 
-Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
+Étudiante en Master 2 spécialisée en physique médicale, dosimétrie et imagerie (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
 📂 Projets académiques — Détails
 
@@ -196,7 +196,7 @@
 
 ---
 
-#### 💻 2. Interface de visualisation & traitement d'images médicales 3D (C++)
+💻 2. Interface de visualisation & traitement d'images médicales 3D (C++)
 
 > **Cadre :** Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
