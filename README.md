@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>🔬 Hegirziana Heva OBONE ESSONO ⚛️</h1>
-  
+
   <p>
     <b>Étudiante en Master 2 Radiophysique Médicale</b> | <i>Medical Physics Master's Student</i><br>
     <b>Université Toulouse III - Paul Sabatier</b><br>
@@ -10,7 +10,6 @@
 
   <br>
 
-  <!-- Badges de contact & CV -->
   <a href="./CV_stage_fr.pdf">
     <img src="https://img.shields.io/badge/📄_Download_CV_/_Télécharger-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF"/>
   </a>
@@ -30,10 +29,12 @@
 </div>
 
 <br>
+<br>
 
 ---
 
 <h2 align="center">🛠️ Compétences & Technologies</h2>
+
 <p align="center"><i>Technical Skills</i></p>
 
 <br>
@@ -74,10 +75,12 @@
 </table>
 
 <br>
+<br>
 
 ---
 
 <h2 align="center">📂 Projets Académiques</h2>
+
 <p align="center"><i>Academic Projects</i></p>
 
 <br>
@@ -98,7 +101,7 @@
           <img src="https://img.shields.io/badge/📄_Rapport-PDF-red?style=for-the-badge" />
         </a><br>
         <a href="./Presentation_Quantification_TEP">
-          <img src="https://img.shields.io/badge/📊_Slides-Google-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/📊_Slides-Présentation-blue?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -135,16 +138,17 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- Placeholder pour un futur projet -->
     </td>
   </tr>
 </table>
 
 <br>
+<br>
 
 ---
 
 <h2 align="center">🔬 Stages & Expériences</h2>
+
 <p align="center"><i>Internships & Professional Experience</i></p>
 
 <br>
@@ -171,10 +175,12 @@
 </table>
 
 <br>
+<br>
 
 ---
 
 <h2 align="center">🌍 Versions Détaillées</h2>
+
 <p align="center"><i>Detailed Versions</i></p>
 
 <br>
@@ -197,9 +203,7 @@
 > **Cadre :** Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 
 - **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
-- 
 - **Technique :**
-  
   - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
   - Calcul de SUV et SUVR (zone de référence : cervelet).
   - Analyse quantitative comparative du métabolisme (cortex frontal, précunéus, cingulaire postérieur).
@@ -213,7 +217,6 @@
 > **Cadre :** Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
 - **Sujet :** Conception d'une interface interactive de visualisation et de traitement de données scanner DICOM.
-
 - **Technique :**
   - Implémentation d'un filtre gaussien 2D par convolution spatiale et de tables de correspondance (LUT / Palette Jet).
   - Simulation de faisceau de radiothérapie (pénétration de dose) et reconstruction de radiographies numériques (DRR).
@@ -228,9 +231,7 @@
 > **Cadre :** Licence 3 — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 
 - **Sujet :** Étude des stratégies de vectorisation pour le franchissement de la barrière hémato-encéphalique.
-  
 - **Technique :**
-  
   - Revue de littérature ciblée sur les vecteurs viraux (AAV5) et non-viraux pour le transfert de microRNA (RNAi).
   - Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
 
@@ -241,6 +242,7 @@
 ### 🔬 Stages & Expériences — Détails
 
 #### 🏥 Stagiaire en Physique Médicale — *Institut de Cancérologie d'Akanda (ICA)*
+
 **Période :** Juin 2026 – Juil 2026
 
 - Tests d'assurance qualité (AQ) quotidiens, hebdomadaires et mensuels (LINAC, CT scanner, ISOMED).
@@ -249,6 +251,7 @@
 ---
 
 #### 🧪 Stagiaire en Recherche (Plasmas) — *Groupe PRHE, Laboratoire LAPLACE*
+
 **Période :** Juin 2025 – Juil 2025
 
 - Étude expérimentale des interactions plasma froid / micro-organismes.
@@ -315,6 +318,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 ### 🔬 Clinical & Research Experience — Details
 
 #### 🏥 Medical Physics Intern — *Institut de Cancérologie d'Akanda (ICA)*
+
 **Period:** Jun 2026 – Jul 2026
 
 - Daily, weekly, and monthly QA protocols on LINAC, CT Simulator, ISOMED.
@@ -323,6 +327,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 ---
 
 #### 🧪 Research Intern (Plasma Physics) — *PRHE Group, LAPLACE Laboratory*
+
 **Period:** Jun 2025 – Jul 2025
 
 - Experimental study of cold atmospheric plasma / micro-organism interactions.
@@ -331,10 +336,12 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 </details>
 
 <br>
+<br>
 
 ---
 
 <h2 align="center">📁 Repository Structure</h2>
+
 <p align="center"><i>Structure du Dépôt</i></p>
 
 <br>
