@@ -24,12 +24,13 @@
 ### 📂 Projets académiques
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
-* **Cadre :** Projet de Master 1 — *Centre de Recherche Cerveau et Cognition (CerCo)* (Mars 2026 – Mai 2026)
+* **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 * **Points clés :** 
   * Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation).
   * Calcul des métriques SUV et SUVR (zone de référence : cervelet).
   * Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).
-* **Lien :** [`/projects/01-pet-alzheimer-quantification`](./projects/01-pet-alzheimer-quantification)
+* **Lien :** [`Projet Quantification TEP`](./Quantification TEP_French ver)
+* * **Lien :** [` Présentation Projet Quantification TEP`](./Presentation_Quantification_TEP)
 
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
@@ -37,14 +38,14 @@
   * Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
   * Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
   * Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
-* **Lien :** [`/projects/02-cpp-dicom-viewer`](./projects/02-cpp-dicom-viewer)
+* **Lien :** [`Présentation Projet Interface C++`](./C++_Project_presentation)
 
 #### 🧬 3. Vectorisation et traitement de la maladie de Huntington
 * **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 * **Points clés :** 
   * Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
   * Analyse de données précliniques sur la réduction de la protéine mHTT.
-* **Lien :** [`/projects/03-vectorization-huntington`](./projects/03-vectorization-huntington)
+* **Lien :** [`Projet de recherche Vectorisation`](./Vectorisation_ieee)
 
 ### 🔬 Stages & Expériences
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
@@ -87,7 +88,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 * **Highlights:** 
   * Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
   * Analysis of preclinical data regarding mHTT protein knockdown.
-* **Link:** [`/projects/03-vectorization-huntington`](./projects/03-vectorization-huntington)
+* **Lien :** [`Projet de recherche Vectorisation`](./Vectorisation_ieee)
 
 ### 🔬 Clinical & Research Experience
 * **Medical Physics Intern** | *Institut de Cancérologie d’Akanda (ICA)* (Jun 2026 – Jul 2026)
