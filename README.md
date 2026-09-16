@@ -176,7 +176,7 @@
 
 <summary><b>🇫🇷 Cliquez ici pour fermer / ouvrir la version française</b></summary>
 
-### 📌 À propos
+📌 À propos
 
 Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
