@@ -24,11 +24,10 @@
 
   <br><br>
 
-  ![Visiteurs](https://komarev.com/ghpvc/?username=hegirziana&label=Visiteurs&color=blueviolet&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=hegirziana&label=Visiteurs&color=blueviolet&style=for-the-badge" alt="Visiteurs"/>
 
 </div>
 
-<br>
 <br>
 
 ---
@@ -36,8 +35,6 @@
 <h2 align="center">🛠️ Compétences & Technologies</h2>
 
 <p align="center"><i>Technical Skills</i></p>
-
-<br>
 
 <table align="center">
   <tr>
@@ -75,15 +72,12 @@
 </table>
 
 <br>
-<br>
 
 ---
 
 <h2 align="center">📂 Projets Académiques</h2>
 
 <p align="center"><i>Academic Projects</i></p>
-
-<br>
 
 <table>
   <tr>
@@ -97,10 +91,10 @@
         <li>Analyse métabolique comparative</li>
       </ul>
       <p>
-        <a href="./Quantification%20TEP_French%20ver">
+        <a href="./rapport_quantification_TEP.pdf">
           <img src="https://img.shields.io/badge/📄_Rapport-PDF-red?style=for-the-badge" />
         </a><br>
-        <a href="./Presentation_Quantification_TEP">
+        <a href="./presentation_quantification_TEP.pdf">
           <img src="https://img.shields.io/badge/📊_Slides-Présentation-blue?style=for-the-badge" />
         </a>
       </p>
@@ -115,7 +109,7 @@
         <li>Segmentation temps réel os/tissus</li>
       </ul>
       <p>
-        <a href="./C++_Project_presentation">
+        <a href="./presentation_projet_cpp.pdf">
           <img src="https://img.shields.io/badge/📊_Présentation-Slides-blue?style=for-the-badge" />
         </a>
       </p>
@@ -132,17 +126,15 @@
         <li>Analyse données précliniques mHTT</li>
       </ul>
       <p>
-        <a href="./Vectorisation_ieee">
+        <a href="./vectorisation_ieee.pdf">
           <img src="https://img.shields.io/badge/📄_Article-IEEE-blue?style=for-the-badge" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
-<br>
 <br>
 
 ---
@@ -150,8 +142,6 @@
 <h2 align="center">🔬 Stages & Expériences</h2>
 
 <p align="center"><i>Internships & Professional Experience</i></p>
-
-<br>
 
 <table align="center">
   <tr>
@@ -175,7 +165,6 @@
 </table>
 
 <br>
-<br>
 
 ---
 
@@ -183,18 +172,13 @@
 
 <p align="center"><i>Detailed Versions</i></p>
 
-<br>
-
 <details open>
-<summary><b>🇫🇷 Cliquez ici pour fermer / ouvrir la version française</b></summary>
 
-<br>
+<summary><b>🇫🇷 Cliquez ici pour fermer / ouvrir la version française</b></summary>
 
 ### 📌 À propos
 
 Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
-
-<br>
 
 ### 📂 Projets académiques — Détails
 
@@ -208,7 +192,7 @@
   - Calcul de SUV et SUVR (zone de référence : cervelet).
   - Analyse quantitative comparative du métabolisme (cortex frontal, précunéus, cingulaire postérieur).
 
-📥 **Ressources :** [📄 Rapport complet](./Quantification%20TEP_French%20ver) · [📊 Présentation](./Presentation_Quantification_TEP)
+📥 **Ressources :** [📄 Rapport complet](./rapport_quantification_TEP.pdf) · [📊 Présentation](./presentation_quantification_TEP.pdf)
 
 ---
 
@@ -222,7 +206,7 @@
   - Simulation de faisceau de radiothérapie (pénétration de dose) et reconstruction de radiographies numériques (DRR).
   - Segmentation anatomique temps réel (os / tissus mous).
 
-📥 **Ressources :** [📊 Présentation du Projet C++](./C++_Project_presentation)
+📥 **Ressources :** [📊 Présentation du projet C++](./presentation_projet_cpp.pdf)
 
 ---
 
@@ -235,9 +219,7 @@
   - Revue de littérature ciblée sur les vecteurs viraux (AAV5) et non-viraux pour le transfert de microRNA (RNAi).
   - Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
 
-📥 **Ressources :** [📄 Article de recherche (Format IEEE)](./Vectorisation_ieee)
-
-<br>
+📥 **Ressources :** [📄 Article de recherche (format IEEE)](./vectorisation_ieee.pdf)
 
 ### 🔬 Stages & Expériences — Détails
 
@@ -259,18 +241,13 @@
 
 </details>
 
-<br>
-
 <details>
-<summary><b>🇬🇧 Click here to expand / collapse the English version</b></summary>
 
-<br>
+<summary><b>🇬🇧 Click here to expand / collapse the English version</b></summary>
 
 ### 📌 About
 
 Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with practical experience in radiotherapy quality assurance, PET metabolic quantification, and C++ software development.
-
-<br>
 
 ### 📂 Academic Projects — Details
 
@@ -284,7 +261,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
   - SUV and SUVR metrics calculation using the cerebellum as reference region.
   - Comparative metabolic profile analysis (frontal cortex, precuneus, posterior cingulate).
 
-📥 **Files:** [📄 Full Report (FR)](./Quantification%20TEP_French%20ver) · [📊 Slides](./Presentation_Quantification_TEP)
+📥 **Files:** [📄 Full report (FR)](./rapport_quantification_TEP.pdf) · [📊 Slides](./presentation_quantification_TEP.pdf)
 
 ---
 
@@ -294,11 +271,11 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 - **Focus:** Interactive 3D visualization platform for DICOM CT scan datasets.
 - **Methodology:**
-  - 2D Gaussian spatial convolution filtering and custom LUT (Jet Palette).
+  - 2D Gaussian spatial convolution filtering and custom LUT (Jet palette).
   - Radiotherapy beam penetration simulation and DRR generation.
   - Real-time anatomical segmentation (bone vs. soft tissue).
 
-📥 **Files:** [📊 C++ Project Presentation](./C++_Project_presentation)
+📥 **Files:** [📊 C++ project presentation](./presentation_projet_cpp.pdf)
 
 ---
 
@@ -311,9 +288,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
   - Review of viral (AAV5) and non-viral vectors for therapeutic microRNA delivery (RNAi).
   - Analysis of preclinical data (mHTT aggregation reduction, motor recovery).
 
-📥 **Files:** [📄 Scientific Review (IEEE)](./Vectorisation_ieee)
-
-<br>
+📥 **Files:** [📄 Scientific review (IEEE)](./vectorisation_ieee.pdf)
 
 ### 🔬 Clinical & Research Experience — Details
 
@@ -321,7 +296,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 **Period:** Jun 2026 – Jul 2026
 
-- Daily, weekly, and monthly QA protocols on LINAC, CT Simulator, ISOMED.
+- Daily, weekly, and monthly QA protocols on LINAC, CT simulator, ISOMED.
 - TPS initiation: OAR/CTV/PTV contouring, beam setup, energy selection.
 
 ---
@@ -336,7 +311,6 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 </details>
 
 <br>
-<br>
 
 ---
 
@@ -344,13 +318,12 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 <p align="center"><i>Structure du Dépôt</i></p>
 
-<br>
-
 ```text
 .
-├── README.md                           # Bilingual Portfolio
-├── CV_stage_fr.pdf                     # Curriculum Vitae (PDF)
-├── Quantification TEP_French ver       # PET Quantification Report
-├── Presentation_Quantification_TEP     # PET Slides
-├── C++_Project_presentation            # C++ DICOM Slides
-└── Vectorisation_ieee                  # Huntington IEEE Paper
+├── README.md                              # Portfolio bilingue
+├── CV_stage_fr.pdf                        # Curriculum Vitae (PDF)
+├── rapport_quantification_TEP.pdf         # Rapport quantification TEP
+├── presentation_quantification_TEP.pdf    # Slides TEP
+├── presentation_projet_cpp.pdf            # Slides C++ / DICOM
+└── vectorisation_ieee.pdf                 # Article IEEE Huntington
+```
