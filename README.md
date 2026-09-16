@@ -12,44 +12,20 @@
 
   <!-- Badges de contact & CV -->
   <a href="./CV_stage_fr.pdf">
-    <img src="https://img.shields.io/badge/📄_Download_CV /_Télécharger-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF"/>
+    <img src="https://img.shields.io/badge/📄_Download_CV_/_Télécharger-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF"/>
   </a>
   &nbsp;
   <a href="mailto:essono.heva@gmail.com">
     <img src="https://img.shields.io/badge/Email-essono.heva%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-</div>
-
-<br>
-
----
-
-### 🛠️ Compétences & Technologies / Technical Skills
-
-<br>
-
-<div align="center">
-
-  <!-- Badges de programmation -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <a href="https://www.linkedin.com/in/VOTRE_PROFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
   <br><br>
 
-  <!-- Badges disciplinaires -->
-  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Imagerie-TEP%2FIRM%2FCT%2FTEMP-2E8B57?style=for-the-badge" />
+  ![Visiteurs](https://komarev.com/ghpvc/?username=hegirziana&label=Visiteurs&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -57,133 +33,312 @@
 
 ---
 
-## 🇫🇷 Version Française
+<h2 align="center">🛠️ Compétences & Technologies</h2>
+<p align="center"><i>Technical Skills</i></p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="right"><b>💻 Langages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🖥️ Systèmes & Outils</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧠 Imagerie médicale</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SPM12-4B0082?style=flat-square" />
+      <img src="https://img.shields.io/badge/TEP-2E8B57?style=flat-square" />
+      <img src="https://img.shields.io/badge/IRM-2E8B57?style=flat-square" />
+      <img src="https://img.shields.io/badge/CT-2E8B57?style=flat-square" />
+      <img src="https://img.shields.io/badge/TEMP-2E8B57?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>☢️ Dosimétrie</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Radiothérapie_QA-008080?style=flat-square" />
+      <img src="https://img.shields.io/badge/Contourage_OAR%2FCTV%2FPTV-008080?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<h2 align="center">📂 Projets Académiques</h2>
+<p align="center"><i>Academic Projects</i></p>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 1. Quantification TEP/IRM — Alzheimer</h3>
+      <p><b>Cadre :</b> Master 1 — <i>ToNIC</i><br>
+      <b>Période :</b> Mars – Mai 2026</p>
+      <ul>
+        <li>Prétraitement SPM12 (recalage, MNI)</li>
+        <li>Calcul SUV / SUVR (cervelet)</li>
+        <li>Analyse métabolique comparative</li>
+      </ul>
+      <p>
+        <a href="./Quantification%20TEP_French%20ver">
+          <img src="https://img.shields.io/badge/📄_Rapport-PDF-red?style=for-the-badge" />
+        </a><br>
+        <a href="./Presentation_Quantification_TEP">
+          <img src="https://img.shields.io/badge/📊_Slides-Google-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 2. Interface C++ DICOM</h3>
+      <p><b>Cadre :</b> Master 1 — <i>FSI Toulouse</i><br>
+      <b>Période :</b> Fév – Mai 2026</p>
+      <ul>
+        <li>Filtre gaussien 2D + LUT/Jet</li>
+        <li>Simulation faisceau radiothérapie (DRR)</li>
+        <li>Segmentation temps réel os/tissus</li>
+      </ul>
+      <p>
+        <a href="./C++_Project_presentation">
+          <img src="https://img.shields.io/badge/📊_Présentation-Slides-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 3. Vectorisation — Huntington</h3>
+      <p><b>Cadre :</b> Licence 3 — <i>SOFTMAT</i><br>
+      <b>Période :</b> Sep 2024 – Jan 2025</p>
+      <ul>
+        <li>Revue vecteurs AAV5 & non-viraux</li>
+        <li>Transfert microRNA (RNAi)</li>
+        <li>Analyse données précliniques mHTT</li>
+      </ul>
+      <p>
+        <a href="./Vectorisation_ieee">
+          <img src="https://img.shields.io/badge/📄_Article-IEEE-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Placeholder pour un futur projet -->
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<h2 align="center">🔬 Stages & Expériences</h2>
+<p align="center"><i>Internships & Professional Experience</i></p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th>Période</th>
+    <th>Poste</th>
+    <th>Structure</th>
+    <th>Missions clés</th>
+  </tr>
+  <tr>
+    <td><b>Juin – Juil 2026</b></td>
+    <td>🏥 Stagiaire Physique Médicale</td>
+    <td>Institut de Cancérologie d'Akanda (ICA)</td>
+    <td>AQ LINAC/CT/ISOMED · TPS (contourage, balistique)</td>
+  </tr>
+  <tr>
+    <td><b>Juin – Juil 2025</b></td>
+    <td>🧪 Stagiaire Recherche</td>
+    <td>Groupe PRHE — LAPLACE</td>
+    <td>Plasmas froids · ROS/RNS · décontamination biologique</td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<h2 align="center">🌍 Versions Détaillées</h2>
+<p align="center"><i>Detailed Versions</i></p>
+
+<br>
 
 <details open>
-<summary><b>Cliquez ici pour fermer / ouvrir la version française</b></summary>
+<summary><b>🇫🇷 Cliquez ici pour fermer / ouvrir la version française</b></summary>
+
+<br>
 
 ### 📌 À propos
 
 Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
-### 📂 Projets académiques
+<br>
+
+### 📂 Projets académiques — Détails
 
 #### 🧠 1. Quantification métabolique cérébrale (TEP / IRM) — Alzheimer
 
 > **Cadre :** Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 
-* **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
-* **Technique :**
-  * Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
-  * Calcul de SUV et SUVR (zone de référence : cervelet).
-  * Analyse quantitative comparative du métabolisme (cortex frontal, précunéus, cingulaire postérieur).
+- **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
+- **Technique :**
+  - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
+  - Calcul de SUV et SUVR (zone de référence : cervelet).
+  - Analyse quantitative comparative du métabolisme (cortex frontal, précunéus, cingulaire postérieur).
 
-📥 **Ressources :** [📄 Rapport complet](./Quantification TEP_French ver) &nbsp;|&nbsp; [📊 Présentation](./Presentation_Quantification_TEP)
+📥 **Ressources :** [📄 Rapport complet](./Quantification%20TEP_French%20ver) · [📊 Présentation](./Presentation_Quantification_TEP)
+
+---
 
 #### 💻 2. Interface de visualisation & traitement d'images médicales 3D (C++)
 
 > **Cadre :** Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
-* **Sujet :** Conception d'une interface interactive de visualisation et de traitement de données scanner DICOM.
-* **Technique :**
-  * Implémentation d'un filtre gaussien 2D par convolution spatiale et de tables de correspondance (LUT / Palette Jet).
-  * Simulation de faisceau de radiothérapie (pénétration de dose) et reconstruction de radiographies numériques (DRR).
-  * Segmentation anatomique temps réel (os / tissus mous).
+- **Sujet :** Conception d'une interface interactive de visualisation et de traitement de données scanner DICOM.
+- **Technique :**
+  - Implémentation d'un filtre gaussien 2D par convolution spatiale et de tables de correspondance (LUT / Palette Jet).
+  - Simulation de faisceau de radiothérapie (pénétration de dose) et reconstruction de radiographies numériques (DRR).
+  - Segmentation anatomique temps réel (os / tissus mous).
 
 📥 **Ressources :** [📊 Présentation du Projet C++](./C++_Project_presentation)
+
+---
 
 #### 🧬 3. Vectorisation & Ciblage thérapeutique — Maladie de Huntington
 
 > **Cadre :** Licence 3 — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 
-* **Sujet :** Étude des stratégies de vectorisation pour le franchissement de la barrière hémato-encéphalique.
-* **Technique :**
-  * Revue de littérature ciblée sur les vecteurs viraux (AAV5) et non-viraux pour le transfert de microRNA (RNAi).
-  * Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
+- **Sujet :** Étude des stratégies de vectorisation pour le franchissement de la barrière hémato-encéphalique.
+- **Technique :**
+  - Revue de littérature ciblée sur les vecteurs viraux (AAV5) et non-viraux pour le transfert de microRNA (RNAi).
+  - Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
 
 📥 **Ressources :** [📄 Article de recherche (Format IEEE)](./Vectorisation_ieee)
 
-### 🔬 Stages & Expériences Professionnelles
+<br>
 
-* 🏥 **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
-  * Tests d'assurance qualité (AQ) quotidiens, hebdomadaires et mensuels (LINAC, CT scanner, ISOMED).
-  * Initiation au TPS : contourage (OAR, CTV, PTV), balistique et choix des énergies.
+### 🔬 Stages & Expériences — Détails
 
-* 🧪 **Stagiaire en Recherche (Plasmas)** | *Groupe PRHE — Laboratoire LAPLACE* (Juin 2025 – Juil 2025)
-  * Étude expérimentale des interactions plasma froid / micro-organismes.
-  * Analyse de l'efficacité des espèces réactives (ROS/RNS) pour la décontamination biologique.
+#### 🏥 Stagiaire en Physique Médicale — *Institut de Cancérologie d'Akanda (ICA)*
+**Période :** Juin 2026 – Juil 2026
 
-</details>
+- Tests d'assurance qualité (AQ) quotidiens, hebdomadaires et mensuels (LINAC, CT scanner, ISOMED).
+- Initiation au TPS : contourage (OAR, CTV, PTV), balistique et choix des énergies.
 
 ---
 
-## 🇬🇧 English Version
+#### 🧪 Stagiaire en Recherche (Plasmas) — *Groupe PRHE, Laboratoire LAPLACE*
+**Période :** Juin 2025 – Juil 2025
+
+- Étude expérimentale des interactions plasma froid / micro-organismes.
+- Analyse de l'efficacité des espèces réactives (ROS/RNS) pour la décontamination biologique.
+
+</details>
+
+<br>
 
 <details>
-<summary><b>Click here to expand / collapse the English version</b></summary>
+<summary><b>🇬🇧 Click here to expand / collapse the English version</b></summary>
+
+<br>
 
 ### 📌 About
 
 Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with practical experience in radiotherapy quality assurance, PET metabolic quantification, and C++ software development.
 
-### 📂 Academic Projects
+<br>
+
+### 📂 Academic Projects — Details
 
 #### 🧠 1. Brain Metabolic Quantification (PET / MRI) — Alzheimer's Disease
 
-> **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC) / CerCo* (Mar 2026 – May 2026)
+> **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026)
 
-* **Focus:** Quantitative PET analysis of cerebral biomarkers and regional metabolic deficits in Alzheimer's disease.
-* **Methodology:**
-  * Preprocessing of 3D brain volumes using **SPM12** (spatial co-registration, MNI spatial normalization, trilinear interpolation).
-  * SUV and SUVR metrics calculation using the cerebellum as reference region.
-  * Comparative metabolic profile analysis across target regions (frontal cortex, precuneus, posterior cingulate).
+- **Focus:** Quantitative PET analysis of cerebral biomarkers and regional metabolic deficits in Alzheimer's disease.
+- **Methodology:**
+  - Preprocessing of 3D brain volumes using **SPM12** (spatial co-registration, MNI normalization, trilinear interpolation).
+  - SUV and SUVR metrics calculation using the cerebellum as reference region.
+  - Comparative metabolic profile analysis (frontal cortex, precuneus, posterior cingulate).
 
-📥 **Project Files:** [📄 Read Full Report (French)](./Quantification TEP_French ver) &nbsp;|&nbsp; [📊 View Presentation Slides](./Presentation_Quantification_TEP)
+📥 **Files:** [📄 Full Report (FR)](./Quantification%20TEP_French%20ver) · [📊 Slides](./Presentation_Quantification_TEP)
+
+---
 
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
 
 > **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
 
-* **Focus:** Interactive 3D visualization platform for DICOM CT scan datasets.
-* **Methodology:**
-  * Spatial convolution 2D Gaussian filtering and custom Look-Up Tables (LUT / Jet Palette).
-  * Radiotherapy beam penetration simulation and Digitally Reconstructed Radiographs (DRR) generation.
-  * Real-time anatomical segmentation (bone vs. soft tissue) linked to the UI.
+- **Focus:** Interactive 3D visualization platform for DICOM CT scan datasets.
+- **Methodology:**
+  - 2D Gaussian spatial convolution filtering and custom LUT (Jet Palette).
+  - Radiotherapy beam penetration simulation and DRR generation.
+  - Real-time anatomical segmentation (bone vs. soft tissue).
 
-📥 **Project Files:** [📊 View C++ Project Presentation](./C++_Project_presentation)
-
-#### 🧬 3. Vectorization Strategies — Huntington’s Disease
-
-> **Context:** Bachelor's Thesis — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
-
-* **Focus:** Literature review on targeted drug delivery platforms crossing the blood-brain barrier.
-* **Methodology:**
-  * Review of viral (AAV5) and non-viral vectors for therapeutic microRNA delivery (RNAi).
-  * Analysis of preclinical data evaluating mHTT protein aggregation reduction and motor recovery.
-
-📥 **Project Files:** [📄 Read Scientific Review (IEEE Format)](./Vectorisation_ieee)
-
-### 🔬 Clinical & Research Experience
-
-* 🏥 **Medical Physics Intern** | *Institut de Cancérologie d’Akanda (ICA)* (Jun 2026 – Jul 2026)
-  * Daily, weekly, and monthly Quality Assurance (QA) protocols on LINAC, CT Simulator, and ISOMED dose calibrators.
-  * Treatment Planning System (TPS) initiation: OAR/CTV/PTV contouring, beam setup, particle/energy selection.
-
-* 🧪 **Research Intern (Plasma Physics)** | *PRHE Group — LAPLACE Laboratory* (Jun 2025 – Jul 2025)
-  * Experimental research on cold atmospheric plasma interaction with micro-organisms.
-  * Evaluation of reactive species (ROS/RNS) generated by plasma discharges for biological decontamination.
-
-</details>
+📥 **Files:** [📊 C++ Project Presentation](./C++_Project_presentation)
 
 ---
 
-## 📁 Repository Structure / Structure du Dépôt
+#### 🧬 3. Vectorization Strategies — Huntington's Disease
+
+> **Context:** Bachelor's Thesis — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
+
+- **Focus:** Literature review on targeted drug delivery platforms crossing the blood-brain barrier.
+- **Methodology:**
+  - Review of viral (AAV5) and non-viral vectors for therapeutic microRNA delivery (RNAi).
+  - Analysis of preclinical data (mHTT aggregation reduction, motor recovery).
+
+📥 **Files:** [📄 Scientific Review (IEEE)](./Vectorisation_ieee)
+
+<br>
+
+### 🔬 Clinical & Research Experience — Details
+
+#### 🏥 Medical Physics Intern — *Institut de Cancérologie d'Akanda (ICA)*
+**Period:** Jun 2026 – Jul 2026
+
+- Daily, weekly, and monthly QA protocols on LINAC, CT Simulator, ISOMED.
+- TPS initiation: OAR/CTV/PTV contouring, beam setup, energy selection.
+
+---
+
+#### 🧪 Research Intern (Plasma Physics) — *PRHE Group, LAPLACE Laboratory*
+**Period:** Jun 2025 – Jul 2025
+
+- Experimental study of cold atmospheric plasma / micro-organism interactions.
+- Evaluation of reactive species (ROS/RNS) for biological decontamination.
+
+</details>
+
+<br>
+
+---
+
+<h2 align="center">📁 Repository Structure</h2>
+<p align="center"><i>Structure du Dépôt</i></p>
+
+<br>
 
 ```text
 .
-├── README.md                           # Combined Bilingual Portfolio
+├── README.md                           # Bilingual Portfolio
 ├── CV_stage_fr.pdf                     # Curriculum Vitae (PDF)
-├── Quantification TEP_French ver       # PET Quantification Project Report
-├── Presentation_Quantification_TEP     # PET Project Presentation Slides
-├── C++_Project_presentation            # C++ DICOM Interface Presentation Slides
-└── Vectorisation_ieee                  # Huntington Vectorization IEEE Paper
+├── Quantification TEP_French ver       # PET Quantification Report
+├── Presentation_Quantification_TEP     # PET Slides
+├── C++_Project_presentation            # C++ DICOM Slides
+└── Vectorisation_ieee                  # Huntington IEEE Paper
