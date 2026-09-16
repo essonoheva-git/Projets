@@ -209,8 +209,7 @@
 📥 **Ressources :** [📊 Présentation du projet C++](./presentation_projet_cpp.pdf)
 
 ---
-
-#### 🧬 3. Vectorisation & Ciblage thérapeutique — Maladie de Huntington
+🧬 3. Vectorisation & Ciblage thérapeutique — Maladie de Huntington
 
 > **Cadre :** Licence 3 — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 
@@ -221,9 +220,9 @@
 
 📥 **Ressources :** [📄 Article de recherche (format IEEE)](./vectorisation_ieee.pdf)
 
-### 🔬 Stages & Expériences — Détails
+🔬 Stages & Expériences — Détails
 
-#### 🏥 Stagiaire en Physique Médicale — *Institut de Cancérologie d'Akanda (ICA)*
+🏥 Stagiaire en Physique Médicale — *Institut de Cancérologie d'Akanda (ICA)*
 
 **Période :** Juin 2026 – Juil 2026
 
@@ -232,7 +231,7 @@
 
 ---
 
-#### 🧪 Stagiaire en Recherche (Plasmas) — *Groupe PRHE, Laboratoire LAPLACE*
+🧪 Stagiaire en Recherche (Plasmas) — *Groupe PRHE, Laboratoire LAPLACE*
 
 **Période :** Juin 2025 – Juil 2025
 
@@ -245,13 +244,13 @@
 
 <summary><b>🇬🇧 Click here to expand / collapse the English version</b></summary>
 
-### 📌 About
+📌 About
 
 Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with practical experience in radiotherapy quality assurance, PET metabolic quantification, and C++ software development.
 
-### 📂 Academic Projects — Details
+📂 Academic Projects — Details
 
-#### 🧠 1. Brain Metabolic Quantification (PET / MRI) — Alzheimer's Disease
+🧠 1. Brain Metabolic Quantification (PET / MRI) — Alzheimer's Disease
 
 > **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026)
 
@@ -265,7 +264,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 ---
 
-#### 💻 2. Medical Image Visualization & Processing Interface (C++)
+💻 2. Medical Image Visualization & Processing Interface (C++)
 
 > **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
 
