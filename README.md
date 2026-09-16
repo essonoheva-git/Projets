@@ -61,16 +61,15 @@
 
 <details open>
 <summary><b>Cliquez ici pour fermer / ouvrir la version française</b></summary>
-<br>
 
 ### 📌 À propos
-Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
-<br>
+Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
 ### 📂 Projets académiques
 
 #### 🧠 1. Quantification métabolique cérébrale (TEP / IRM) — Alzheimer
+
 > **Cadre :** Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 
 * **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
@@ -81,9 +80,8 @@
 
 📥 **Ressources :** [📄 Rapport complet](./Quantification TEP_French ver) &nbsp;|&nbsp; [📊 Présentation](./Presentation_Quantification_TEP)
 
-<br>
-
 #### 💻 2. Interface de visualisation & traitement d'images médicales 3D (C++)
+
 > **Cadre :** Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
 * **Sujet :** Conception d'une interface interactive de visualisation et de traitement de données scanner DICOM.
@@ -94,9 +92,8 @@
 
 📥 **Ressources :** [📊 Présentation du Projet C++](./C++_Project_presentation)
 
-<br>
-
 #### 🧬 3. Vectorisation & Ciblage thérapeutique — Maladie de Huntington
+
 > **Cadre :** Licence 3 — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 
 * **Sujet :** Étude des stratégies de vectorisation pour le franchissement de la barrière hémato-encéphalique.
@@ -105,8 +102,6 @@
   * Évaluation des données précliniques sur la réduction des agrégats de protéine mHTT et l'amélioration motrice.
 
 📥 **Ressources :** [📄 Article de recherche (Format IEEE)](./Vectorisation_ieee)
-
-<br>
 
 ### 🔬 Stages & Expériences Professionnelles
 
@@ -126,16 +121,15 @@
 
 <details>
 <summary><b>Click here to expand / collapse the English version</b></summary>
-<br>
 
 ### 📌 About
-Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with practical experience in radiotherapy quality assurance, PET metabolic quantification, and C++ software development.
 
-<br>
+Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with practical experience in radiotherapy quality assurance, PET metabolic quantification, and C++ software development.
 
 ### 📂 Academic Projects
 
 #### 🧠 1. Brain Metabolic Quantification (PET / MRI) — Alzheimer's Disease
+
 > **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC) / CerCo* (Mar 2026 – May 2026)
 
 * **Focus:** Quantitative PET analysis of cerebral biomarkers and regional metabolic deficits in Alzheimer's disease.
@@ -146,9 +140,8 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 📥 **Project Files:** [📄 Read Full Report (French)](./Quantification TEP_French ver) &nbsp;|&nbsp; [📊 View Presentation Slides](./Presentation_Quantification_TEP)
 
-<br>
-
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
+
 > **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
 
 * **Focus:** Interactive 3D visualization platform for DICOM CT scan datasets.
@@ -159,9 +152,8 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 📥 **Project Files:** [📊 View C++ Project Presentation](./C++_Project_presentation)
 
-<br>
-
 #### 🧬 3. Vectorization Strategies — Huntington’s Disease
+
 > **Context:** Bachelor's Thesis — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
 
 * **Focus:** Literature review on targeted drug delivery platforms crossing the blood-brain barrier.
@@ -170,8 +162,6 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
   * Analysis of preclinical data evaluating mHTT protein aggregation reduction and motor recovery.
 
 📥 **Project Files:** [📄 Read Scientific Review (IEEE Format)](./Vectorisation_ieee)
-
-<br>
 
 ### 🔬 Clinical & Research Experience
 
@@ -191,9 +181,9 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 
 ```text
 .
-├── README.md                              # Combined Bilingual Portfolio
-├── CV_stage_fr.pdf                        # Curriculum Vitae (PDF)
-├── Quantification TEP_French ver          # PET Quantification Project Report
-├── Presentation_Quantification_TEP        # PET Project Presentation Slides
-├── C++_Project_presentation               # C++ DICOM Interface Presentation Slides
-└── Vectorisation_ieee                     # Huntington Vectorization IEEE Paper
+├── README.md                           # Combined Bilingual Portfolio
+├── CV_stage_fr.pdf                     # Curriculum Vitae (PDF)
+├── Quantification TEP_French ver       # PET Quantification Project Report
+├── Presentation_Quantification_TEP     # PET Project Presentation Slides
+├── C++_Project_presentation            # C++ DICOM Interface Presentation Slides
+└── Vectorisation_ieee                  # Huntington Vectorization IEEE Paper
