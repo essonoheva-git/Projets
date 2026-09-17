@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Étudiante en Master 2 Radiophysique Médicale</b> | <i>Medical Physics Master's Student</i><br>
-  Université Toulouse III - Paul Sabatier<br>
+  Université de Toulouse - Faculté des Sciences et d'Ingénierie <br>
   📍 Toulouse, France | 📧 essono.heva@gmail.com
 </p>
 
@@ -50,7 +50,7 @@
 ### 🔬 Stages & Expériences
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
   * Assurance qualité sur LINAC, simulateur CT et calibrateur de dose ISOMED.
-  * Contourage TPS (OAR, CTV, PTV) et balistique de traitement.
+  * Contourage TPS (CTV, PTV) et balistique de traitement.
 * **Stagiaire en Recherche** | *Groupe PRHE — Laboratoire LAPLACE* (Juin 2025 – Juil 2025)
   * Étude des plasmas froids et espèces réactives (ROS/RNS) pour la décontamination biologique.
 
@@ -59,21 +59,21 @@
 ## 🇬🇧 English
 
 ### 📄 Resume / CV
-* 📥 **[Download full CV (PDF)](./internship_resume.pdf)**
+* 📥 **[Download full CV (PDF)](./Internship_resume.pdf)**
 * 📑 **Fields:** Medical Physics, Dosimetry, Medical Imaging & Image Processing.
 
 ### 📌 About
-Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
+Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
 
 ### 📂 Featured Projects
 
 #### 🧠 1. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
-* **Context:** Master 1 Project — *Brain and Cognition Research Center (CerCo)* (Mar 2026 – May 2026)
+* **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026)
 * **Highlights:** 
   * 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
   * SUV and SUVR metrics calculation using the cerebellum as reference region.
   * Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
-* **Link:** [`Project Quantification TEP`](./Quantification_TEP_eng_ver.pdf)
+* **Link:** [`TEP Quantification Project`](./Quantification_TEP_eng_ver.pdf)
 
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
 * **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
@@ -107,16 +107,3 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 | **Programming** | C, C++, MATLAB |
 | **Environments** | VS Code, PyCharm, Qt Creator, Linux (Ubuntu), Windows |
 | **Medical Physics** | Dosimetry, Radiotherapy QA, TPS Contouring, Radiobiology |
-
----
-
-## 📁 Directory Structure
-
-```text
-.
-├── README.md                                 # Portfolio overview (Bilingual)
-├── CV_stage_fr.pdf                           # Curriculum Vitae (PDF)
-└── projects/
-    ├── 01-pet-alzheimer-quantification/     # M1 CerCo project
-    ├── 02-cpp-dicom-viewer/                 # M1 C++ DICOM project
-    └── 03-vectorization-huntington/         # Licence SOFTMAT project
