@@ -30,7 +30,7 @@
 
 <img src="./img_brute.png" width="33%" /> <img src="./img_atlas.png" width="33%" /> <img src="./img_suv.png" width="33%" />
 
-<img src="./img_result.png" width="95%" />
+<img src="./img_result.png" width="98%" />
 
 * **Sujet :** Analyse TEP des biomarqueurs cérébraux...
 * **Technique :**
@@ -47,9 +47,9 @@
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
-<img src="./img_beam.png" width="45%" /> <img src="./img_lut.png" width="40%" />
+<img src="./img_beam.png" width="50%" /> <img src="./img_lut.png" width="45%" />
 
-  <img src="./interface_Qt.png" alt="Résultat Interface Qt " width="75%" />
+  <img src="./interface_Qt.png" alt="Résultat Interface Qt " width="57%" /> <img src="./img_drr.png" alt="Résultat Interface Qt " width="38%" />
 
 
 * **Points clés :** 
