@@ -25,6 +25,12 @@
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
 * **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
+
+<img src="./img_brute.png" width="33%" /> <img src="./img_atlas.png" width="33%" /> <img src="./img_suv.png" width="33%" />
+
+* **Sujet :** Analyse TEP des biomarqueurs cérébraux...
+* **Technique :**
+  * Prétraitement de volumes cérébraux 3D sous **SPM12**.
 * **Points clés :** 
   * Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation).
   * Calcul des métriques SUV et SUVR (zone de référence : cervelet).
