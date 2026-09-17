@@ -19,9 +19,6 @@
 * 📥 **[Télécharger mon CV complet (PDF)](./Stage_CV.pdf)**
 * 📑 **Domaines :** Radiophysique Médicale, Dosimétrie, Imagerie Médicale & Traitement d'Images.
 
-### 📌 À propos
-Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
-
 <p align="center">
   <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="35px" />
   <img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" height="35px" />
@@ -36,6 +33,9 @@
   <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="35px" />
 </p>
 
+### 📌 À propos
+Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
+
 
 <hr size="8" color="#00599C">
 
@@ -43,7 +43,11 @@
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM) 
 
+<p>
 <img src="https://img.shields.io/badge/Imagerie-TEP-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="35px" />
+<img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="35px" />
+</p>
   
 * **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 * **Rapport détaillé format ieee :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
@@ -64,8 +68,13 @@
 <hr size="8" color="#00599C">
 
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
-
+<p>
 <img src="https://img.shields.io/badge/Imagerie-IRM%2FCT-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="35px" />
+<img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="35px" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="35px" />
+</p>
+
 
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 * **Support de présentation orale :** [`Présentation Projet C++`](./C++_Project_presentation.pdf).
@@ -94,7 +103,7 @@
 
 ### 🔬 Stages & Expériences
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
-* 
+
 <img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" />
 
   * Assurance qualité sur LINAC, simulateur CT et calibrateur de dose ISOMED.
@@ -111,14 +120,32 @@
 * 📥 **[Download full CV (PDF)](./Internship_resume.pdf)**
 * 📑 **Fields:** Medical Physics, Dosimetry, Medical Imaging & Image Processing.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="35px" />
+  <img src="https://img.shields.io/badge/Dosimetry-Radiotherapy_QA-008080?style=for-the-badge" height="35px" />
+  <img src="https://img.shields.io/badge/Imaging-PET%2FMRI%2FCT%2FSPECT-2E8B57?style=for-the-badge" height="35px" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="35px" />
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="35px" />
+</p>
+
 ### 📌 About
 Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
+
 
 <hr size="8" color="#00599C">
 
 ### 📂 Featured Projects
 
 #### 🧠 1. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
+
+<img src="https://img.shields.io/badge/Imaging-PET-2E8B57?style=for-the-badge" height="35px" />
+
 * **Context:** Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026)
 * **Highlights:** 
   * 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
@@ -129,6 +156,9 @@ Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasou
 <hr size="8" color="#00599C">
 
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
+
+<img src="https://img.shields.io/badge/Imaging-MRI%2FCT-2E8B57?style=for-the-badge" height="35px" />
+
 * **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
 * **Highlights:** 
   * Interactive 3D visualization tool for DICOM CT datasets built in C++.
@@ -150,6 +180,9 @@ Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasou
 
 ### 🔬 Clinical & Research Experience
 * **Medical Physics Intern** | *Institut de Cancérologie d’Akanda (ICA)* (Jun 2026 – Jul 2026)
+
+<img src="https://img.shields.io/badge/Dosimetry-Radiotherapy_QA-008080?style=for-the-badge" height="35px" />
+
   * Quality assurance protocols on LINAC, CT Simulator, and ISOMED dose calibrators.
   * Treatment planning (TPS): OAR/CTV/PTV contouring and beam arrangement.
 * **Research Intern** | *PRHE Group — LAPLACE Laboratory* (Jun 2025 – Jul 2025)
