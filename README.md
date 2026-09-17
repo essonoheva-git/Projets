@@ -70,7 +70,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
 </p>
 
-### 📂 Projets académiques
+<!-- Projets -->
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
 
@@ -155,7 +156,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
-### 🔬 Stages & Expériences
+<!-- Expériences / Stages -->
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Stages & Expériences
 
 > [!IMPORTANT]
 > Expérience de terrain en milieu clinique et en laboratoire de recherche.
