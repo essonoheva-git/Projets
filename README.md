@@ -60,17 +60,16 @@
   <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
 </p>
 
-<!-- À propos -->
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> À propos
 
 > [!NOTE]
+
 > Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
 </p>
 
-<!-- Projets -->
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
 
 #### 01. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
@@ -82,15 +81,17 @@
 </p>
 
 | | |
+| :--- | :--- |
 | **Cadre** | Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026) |
 | **Rapport IEEE** | [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf) |
 | **Présentation** | [`Support de présentation orale`](./Presentation_Quantification_TEP.pdf) |
 
 <p align="center">
-  <img src="./tep.gif" width="98%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./tep.gif" width="98%" alt="Démonstration Quantification TEP" />
 </p>
 
 > [!TIP]
+
 > **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
 >
 > **Points clés :**
@@ -119,10 +120,11 @@
 | **Présentation** | [`Présentation Projet C++`](./C++_Project_presentation.pdf) |
 
 <p align="center">
-  <img src="./cpp.gif" width="99%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./cpp.gif" width="99%" alt="Démonstration Interface C++ Qt" />
 </p>
 
 > [!TIP]
+
 > **Points clés :**
 > - Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
 > - Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
@@ -134,7 +136,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 🧬 03. Vectorisation et traitement de la maladie de Huntington
+#### 03. Vectorisation et traitement de la maladie de Huntington
 
 <p align="center">
   <img src="https://img.shields.io/badge/Recherche_Scientifique-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
@@ -148,10 +150,11 @@
 | **Présentation** | [`Support de présentation orale`](./Vectorisation_presentation.pdf) |
 
 <p align="center">
-  <img src="./vect.gif" width="95%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./vect.gif" width="95%" alt="Démonstration Vectorisation" />
 </p>
 
 > [!TIP]
+
 > **Points clés :**
 > - Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
 > - Analyse de données précliniques sur la réduction de la protéine mHTT.
@@ -160,10 +163,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
-<!-- Expériences / Stages -->
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Stages & Expériences
 
 > [!IMPORTANT]
+
 > Expérience de terrain en milieu clinique et en laboratoire de recherche.
 
 <p align="center">
@@ -174,7 +177,7 @@
 </p>
 
 <p align="center">
-  <img src="./ica.gif" width="98%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./ica.gif" width="98%" alt="Démonstration Stage ICA" />
 </p>
 
 | Période | Poste | Structure | Missions clés |
@@ -185,7 +188,7 @@
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
 </p>
 
 ## 🇬🇧 English
@@ -212,27 +215,37 @@
   <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
 </p>
 
-### 📌 About
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> About
 
 > [!NOTE]
+
 > Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
 </p>
 
-### 📂 Featured Projects
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Featured Projects
 
-#### 🧠 1. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
+#### 01. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
 
-<img src="https://img.shields.io/badge/Imaging-PET-2E8B57?style=for-the-badge" height="32px" />
+<p>
+  <img src="https://img.shields.io/badge/Imaging-PET-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="32px" />
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
+</p>
 
 | | |
 | :--- | :--- |
 | **Context** | Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026) |
 | **Report** | [`TEP Quantification Project`](./Quantification_TEP_eng_ver.pdf) |
 
+<p align="center">
+  <img src="./tep.gif" width="98%" alt="PET Quantification Demo" />
+</p>
+
 > [!TIP]
+
 > **Highlights:**
 > - 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
 > - SUV and SUVR metrics calculation using the cerebellum as reference region.
@@ -244,16 +257,26 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 💻 2. Medical Image Visualization & Processing Interface (C++)
+#### 02. Medical Image Visualization & Processing Interface (C++)
 
-<img src="https://img.shields.io/badge/Imaging-MRI%2FCT-2E8B57?style=for-the-badge" height="32px" />
+<p>
+  <img src="https://img.shields.io/badge/Imaging-MRI%2FCT-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32px" />
+  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
+</p>
 
 | | |
 | :--- | :--- |
 | **Context** | Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026) |
 | **Presentation** | [`Qt Interface Project Presentation`](./C++_Project_presentation_eng.pdf) |
 
+<p align="center">
+  <img src="./cpp.gif" width="99%" alt="C++ Qt Interface Demo" />
+</p>
+
 > [!TIP]
+
 > **Highlights:**
 > - Interactive 3D visualization tool for DICOM CT datasets built in C++.
 > - Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).
@@ -265,7 +288,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 🧬 3. Vectorization Strategies in Huntington's Disease
+#### 03. Vectorization Strategies in Huntington's Disease
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scientific_Research-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Literature_Review-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
+</p>
 
 | | |
 | :--- | :--- |
@@ -273,7 +301,12 @@
 | **Report** | [`Vectorization Project Report`](./Vectorisation_ieee.pdf) |
 | **Presentation** | [`Vectorization Project Presentation`](./Vectorisation_presentation.pdf) |
 
+<p align="center">
+  <img src="./vect.gif" width="95%" alt="Vectorization Demo" />
+</p>
+
 > [!TIP]
+
 > **Highlights:**
 > - Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
 > - Analysis of preclinical data regarding mHTT protein knockdown.
@@ -282,10 +315,22 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
-### 🔬 Clinical & Research Experience
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Clinical & Research Experience
 
 > [!IMPORTANT]
+
 > Hands-on experience in both clinical settings and research laboratories.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scientific_Research-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Literature_Review-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Radiotherapy_QA-008080?style=flat-square&logo=shield-check&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Medical_Imaging-2E8B57?style=flat-square&logo=activity&logoColor=white" height="28px" />
+</p>
+
+<p align="center">
+  <img src="./ica.gif" width="98%" alt="ICA Internship Demo" />
+</p>
 
 | Period | Role | Institution | Key Missions |
 | :--- | :--- | :--- | :--- |
