@@ -86,13 +86,7 @@
 | **Présentation** | [`Support de présentation orale`](./Presentation_Quantification_TEP.pdf) |
 
 <p align="center">
-  <img src="./img_brute.png" width="32%" />
-  <img src="./img_atlas.png" width="32%" />
-  <img src="./img_suv.png" width="32%" />
-</p>
-
-<p align="center">
-  <img src="./img_result.png" width="97%" />
+  <img src="./tep.gif" width="98%" alt="Démonstration carrousel Interface C++ Qt" />
 </p>
 
 > [!TIP]
@@ -124,7 +118,7 @@
 | **Présentation** | [`Présentation Projet C++`](./C++_Project_presentation.pdf) |
 
 <p align="center">
-  <img src="./c++.gif" width="85%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./cpp.gif" width="99%" alt="Démonstration carrousel Interface C++ Qt" />
 </p>
 
 > [!TIP]
@@ -147,6 +141,10 @@
 | **Rapport IEEE** | [`Projet Vectorisation`](./Vectorisation_ieee.pdf) |
 | **Présentation** | [`Support de présentation orale`](./Vectorisation_presentation.pdf) |
 
+<p align="center">
+  <img src="./vect.gif" width="95%" alt="Démonstration carrousel Interface C++ Qt" />
+</p>
+
 > [!TIP]
 > **Points clés :**
 > - Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
@@ -162,7 +160,7 @@
 > Expérience de terrain en milieu clinique et en laboratoire de recherche.
 
 <p align="center">
-  <img src="./ica.gif" width="95%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./ica.gif" width="98%" alt="Démonstration carrousel Interface C++ Qt" />
 </p>
 
 | Période | Poste | Structure | Missions clés |
