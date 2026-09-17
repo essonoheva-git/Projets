@@ -22,6 +22,21 @@
 ### 📌 À propos
 Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="35px" />
+  <img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" height="35px" />
+  <img src="https://img.shields.io/badge/Imagerie-TEP%2FIRM%2FCT%2FTEMP-2E8B57?style=for-the-badge" height="35px" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="35px" />
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="35px" />
+</p>
+
+
 <hr size="8" color="#00599C">
 
 ### 📂 Projets académiques
@@ -79,7 +94,9 @@
 
 ### 🔬 Stages & Expériences
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
+* 
 <img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" />
+
   * Assurance qualité sur LINAC, simulateur CT et calibrateur de dose ISOMED.
   * Contourage TPS (CTV, PTV) et balistique de traitement.
 
