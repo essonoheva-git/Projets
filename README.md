@@ -12,25 +12,18 @@
 </p>
 
 <p align="center">
-  <a href="#-sommaire--table-of-contents">Sommaire</a> •
-  <a href="#-français">🇫🇷 Français</a> •
-  <a href="#-english">🇬🇧 English</a> •
-  <a href="#-compétences--technical-skills">Compétences</a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
-## 📑 Sommaire / Table of Contents
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/list-unordered-16.svg" width="20" height="20" /> Sommaire / Table of Contents
 
-| 🇫🇷 | 🇬🇧 |
+| 🇫🇷 Section Française | 🇬🇧 English Section |
 | :--- | :--- |
-| [📄 CV](#-curriculum-vitae) | [📄 Resume](#-resume--cv) |
-| [📌 À propos](#-à-propos) | [📌 About](#-about) |
-| [📂 Projets](#-projets-académiques) | [📂 Projects](#-featured-projects) |
-| [🔬 Stages](#-stages--expériences) | [🔬 Experience](#-clinical--research-experience) |
-| [🛠️ Compétences](#-compétences--technical-skills) | [🛠️ Skills](#-compétences--technical-skills) |
+| [Curriculum Vitae](#-curriculum-vitae) | [Resume / CV](#-resume--cv) |
+| [À propos](#-à-propos) | [About](#-about) |
+| [Projets académiques](#-projets-académiques) | [Featured Projects](#-featured-projects) |
+| [Stages & Expériences](#-stages--expériences) | [Clinical & Research Experience](#-clinical--research-experience) |
+| [Compétences](#-compétences--technical-skills) | [Technical Skills](#-compétences--technical-skills) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🇫🇷%20FRANÇAIS&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
@@ -38,7 +31,7 @@
 
 ## 🇫🇷 Français
 
-### 📄 Curriculum Vitae
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-16.svg" width="20" height="20" /> Curriculum Vitae
 
 <p align="center">
   <a href="./Stage_CV.pdf"><img src="https://img.shields.io/badge/📥_Télécharger_mon_CV-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
@@ -62,9 +55,9 @@
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> À propos
 
-> [!NOTE]
-
-> Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
+<blockquote style="border-left: 4px solid #00599C; padding-left: 12px; margin-left: 0;">
+  <strong>💡 Note :</strong> Étudiante en Master 2 spécialisée en <strong>physique médicale, dosimétrie et imagerie</strong> (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
@@ -80,7 +73,7 @@
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
 </p>
 
-| | |
+| Élément | Détails |
 | :--- | :--- |
 | **Cadre** | Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026) |
 | **Rapport IEEE** | [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf) |
@@ -90,14 +83,15 @@
   <img src="./tep.gif" width="98%" alt="Démonstration Quantification TEP" />
 </p>
 
-> [!TIP]
-
-> **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
->
-> **Points clés :**
-> - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
-> - Calcul des métriques SUV et SUVR (zone de référence : cervelet).
-> - Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>🎯 Sujet :</strong> Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.<br/><br/>
+  <strong>Points clés :</strong>
+  <ul>
+    <li>Prétraitement de volumes cérébraux 3D sous <strong>SPM12</strong> (recalage spatial, normalisation MNI, interpolation trilinéaire).</li>
+    <li>Calcul des métriques SUV et SUVR (zone de référence : cervelet).</li>
+    <li>Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).</li>
+  </ul>
+</blockquote>
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
@@ -114,7 +108,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
 </p>
 
-| | |
+| Élément | Détails |
 | :--- | :--- |
 | **Cadre** | Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026) |
 | **Présentation** | [`Présentation Projet C++`](./C++_Project_presentation.pdf) |
@@ -123,12 +117,14 @@
   <img src="./cpp.gif" width="99%" alt="Démonstration Interface C++ Qt" />
 </p>
 
-> [!TIP]
-
-> **Points clés :**
-> - Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
-> - Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
-> - Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Points clés :</strong>
+  <ul>
+    <li>Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.</li>
+    <li>Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).</li>
+    <li>Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.</li>
+  </ul>
+</blockquote>
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
@@ -143,7 +139,7 @@
   <img src="https://img.shields.io/badge/Recherche_Bibliographique-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
 </p>
 
-| | |
+| Élément | Détails |
 | :--- | :--- |
 | **Cadre** | Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025) |
 | **Rapport IEEE** | [`Projet Vectorisation`](./Vectorisation_ieee.pdf) |
@@ -153,11 +149,13 @@
   <img src="./vect.gif" width="95%" alt="Démonstration Vectorisation" />
 </p>
 
-> [!TIP]
-
-> **Points clés :**
-> - Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
-> - Analyse de données précliniques sur la réduction de la protéine mHTT.
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Points clés :</strong>
+  <ul>
+    <li>Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.</li>
+    <li>Analyse de données précliniques sur la réduction de la protéine mHTT.</li>
+  </ul>
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
@@ -165,9 +163,9 @@
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Stages & Expériences
 
-> [!IMPORTANT]
-
-> Expérience de terrain en milieu clinique et en laboratoire de recherche.
+<blockquote style="border-left: 4px solid #4B0082; padding-left: 12px; margin-left: 0;">
+  <strong>📌 Expérience :</strong> Immersion de terrain en milieu clinique et en laboratoire de recherche.
+</blockquote>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Recherche_Scientifique-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
@@ -188,12 +186,12 @@
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00457C,100:00599C&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
 </p>
 
 ## 🇬🇧 English
 
-### 📄 Resume / CV
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-16.svg" width="20" height="20" /> Resume / CV
 
 <p align="center">
   <a href="./Internship_resume.pdf"><img src="https://img.shields.io/badge/📥_Download_full_CV-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
@@ -217,9 +215,9 @@
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> About
 
-> [!NOTE]
-
-> Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
+<blockquote style="border-left: 4px solid #00599C; padding-left: 12px; margin-left: 0;">
+  <strong>💡 Note:</strong> Master's student in <strong>Medical Radiation Physics</strong> (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
@@ -235,7 +233,7 @@
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
 </p>
 
-| | |
+| Item | Details |
 | :--- | :--- |
 | **Context** | Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026) |
 | **Report** | [`TEP Quantification Project`](./Quantification_TEP_eng_ver.pdf) |
@@ -244,12 +242,14 @@
   <img src="./tep.gif" width="98%" alt="PET Quantification Demo" />
 </p>
 
-> [!TIP]
-
-> **Highlights:**
-> - 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
-> - SUV and SUVR metrics calculation using the cerebellum as reference region.
-> - Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Highlights:</strong>
+  <ul>
+    <li>3D brain volume preprocessing using <strong>SPM12</strong> (spatial registration, MNI normalization, interpolation).</li>
+    <li>SUV and SUVR metrics calculation using the cerebellum as reference region.</li>
+    <li>Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).</li>
+  </ul>
+</blockquote>
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
 
@@ -266,7 +266,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
 </p>
 
-| | |
+| Item | Details |
 | :--- | :--- |
 | **Context** | Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026) |
 | **Presentation** | [`Qt Interface Project Presentation`](./C++_Project_presentation_eng.pdf) |
@@ -275,12 +275,14 @@
   <img src="./cpp.gif" width="99%" alt="C++ Qt Interface Demo" />
 </p>
 
-> [!TIP]
-
-> **Highlights:**
-> - Interactive 3D visualization tool for DICOM CT datasets built in C++.
-> - Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).
-> - Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Highlights:</strong>
+  <ul>
+    <li>Interactive 3D visualization tool for DICOM CT datasets built in C++.</li>
+    <li>Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).</li>
+    <li>Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.</li>
+  </ul>
+</blockquote>
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
 
@@ -295,7 +297,7 @@
   <img src="https://img.shields.io/badge/Literature_Review-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
 </p>
 
-| | |
+| Item | Details |
 | :--- | :--- |
 | **Context** | Bachelor's Project — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025) |
 | **Report** | [`Vectorization Project Report`](./Vectorisation_ieee.pdf) |
@@ -305,11 +307,13 @@
   <img src="./vect.gif" width="95%" alt="Vectorization Demo" />
 </p>
 
-> [!TIP]
-
-> **Highlights:**
-> - Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
-> - Analysis of preclinical data regarding mHTT protein knockdown.
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Highlights:</strong>
+  <ul>
+    <li>Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.</li>
+    <li>Analysis of preclinical data regarding mHTT protein knockdown.</li>
+  </ul>
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
@@ -317,9 +321,9 @@
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Clinical & Research Experience
 
-> [!IMPORTANT]
-
-> Hands-on experience in both clinical settings and research laboratories.
+<blockquote style="border-left: 4px solid #4B0082; padding-left: 12px; margin-left: 0;">
+  <strong>📌 Experience:</strong> Hands-on experience in both clinical settings and research laboratories.
+</blockquote>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scientific_Research-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
