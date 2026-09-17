@@ -6,6 +6,7 @@
   📍 Toulouse, France | 📧 essono.heva@gmail.com
 </p>
 
+
 <p align="center">
   <a href="#-français">Français</a> • <a href="#-english">English</a>
 </p>
@@ -25,7 +26,10 @@
 
 ### 📂 Projets académiques
 
-#### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
+#### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM) 
+
+<img src="https://img.shields.io/badge/Imagerie-TEP-2E8B57?style=for-the-badge" />
+  
 * **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 * **Rapport détaillé format ieee :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
 * **Support de présentation orale :** [`Présentation Projet Quantification TEP`](./Presentation_Quantification_TEP.pdf)
@@ -45,6 +49,9 @@
 <hr size="8" color="#00599C">
 
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
+
+<img src="https://img.shields.io/badge/Imagerie-IRM%2FCT-2E8B57?style=for-the-badge" />
+
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 * **Support de présentation orale :** [`Présentation Projet C++`](./C++_Project_presentation.pdf).
 
@@ -72,6 +79,7 @@
 
 ### 🔬 Stages & Expériences
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
+<img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" />
   * Assurance qualité sur LINAC, simulateur CT et calibrateur de dose ISOMED.
   * Contourage TPS (CTV, PTV) et balistique de traitement.
 
