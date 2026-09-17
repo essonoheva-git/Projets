@@ -15,7 +15,7 @@
 ## 🇫🇷 Français
 
 ### 📄 Curriculum Vitae
-* 📥 **[Télécharger mon CV complet (PDF)](./CV_stage_fr.pdf)**
+* 📥 **[Télécharger mon CV complet (PDF)](./Stage_CV.pdf)**
 * 📑 **Domaines :** Radiophysique Médicale, Dosimétrie, Imagerie Médicale & Traitement d'Images.
 
 ### 📌 À propos
