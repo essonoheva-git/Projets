@@ -162,7 +162,7 @@
 > Expérience de terrain en milieu clinique et en laboratoire de recherche.
 
 <p align="center">
-  <img src="./ica.gif" width="85%" alt="Démonstration carrousel Interface C++ Qt" />
+  <img src="./ica.gif" width="95%" alt="Démonstration carrousel Interface C++ Qt" />
 </p>
 
 | Période | Poste | Structure | Missions clés |
