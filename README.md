@@ -25,6 +25,7 @@
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
 * **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
+
 <div align="center">
   <table>
     <tr>
@@ -52,9 +53,12 @@
 
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
+
 <p align="center">
   <img src="./interface_Qt.png" alt="Résultat Interface Qt " width="75%" />
 </p>
+
+
 * **Points clés :** 
   * Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
   * Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
