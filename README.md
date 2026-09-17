@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:008080&height=220&section=header&text=Hegirziana%20Heva%20OBONE%20ESSONO&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Master%202%20Radiophysique%20Médicale%20%7C%20Medical%20Physics&descSize=16&descAlignY=68" width="100%" alt="Header Hegirziana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:008080&height=250&section=header&text=Hegirziana%20Heva%20OBONE%20ESSONO&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=M2%20Radiophysique%20M%C3%A9dicale%20%7C%20Medical%20Physics%20Student%20%E2%80%A2%20Universit%C3%A9%20de%20Toulouse&descSize=13.5&descAlignY=68" width="100%" alt="Header Hegirziana" />
 </p>
 
-# Hegirziana Heva OBONE ESSONO
-
 <p align="center">
-  <b>Étudiante en Master 2 Radiophysique Médicale</b> | <i>Medical Physics Master's Student</i><br>
-  Université de Toulouse - Faculté des Sciences et d'Ingénierie <br>
   📍 Toulouse, France | 📧 essono.heva@gmail.com
 </p>
 
