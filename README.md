@@ -24,7 +24,7 @@
 ### 📂 Projets académiques
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
-* **Cadre :** Projet de Master 1 — *Centre de Recherche Cerveau et Cognition (CerCo)* (Mars 2026 – Mai 2026)
+* **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
 * **Points clés :** 
   * Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation).
   * Calcul des métriques SUV et SUVR (zone de référence : cervelet).
@@ -59,7 +59,7 @@
 ## 🇬🇧 English
 
 ### 📄 Resume / CV
-* 📥 **[Download full CV (PDF)](./CV_stage_fr.pdf)**
+* 📥 **[Download full CV (PDF)](./internship_resume.pdf)**
 * 📑 **Fields:** Medical Physics, Dosimetry, Medical Imaging & Image Processing.
 
 ### 📌 About
@@ -73,7 +73,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
   * 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
   * SUV and SUVR metrics calculation using the cerebellum as reference region.
   * Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
-* **Link:** [`/projects/01-pet-alzheimer-quantification`](./projects/01-pet-alzheimer-quantification)
+* **Link:** [`Project Quantification TEP`](./Quantification_TEP_eng_ver.pdf)
 
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
 * **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
@@ -88,8 +88,8 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
 * **Highlights:** 
   * Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
   * Analysis of preclinical data regarding mHTT protein knockdown.
-* **Link:** [`/projects/03-vectorization-huntington`](./projects/03-vectorization-huntington)
-
+* **Link:** [`Vectorization Project Report`](./Vectorisation_ieee.pdf)
+* **Link:** [`Vectorization Project Presentation`](./Vectorisation_presentation.pdf)
 ### 🔬 Clinical & Research Experience
 * **Medical Physics Intern** | *Institut de Cancérologie d’Akanda (ICA)* (Jun 2026 – Jul 2026)
   * Quality assurance protocols on LINAC, CT Simulator, and ISOMED dose calibrators.
