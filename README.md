@@ -124,13 +124,7 @@
 | **Présentation** | [`Présentation Projet C++`](./C++_Project_presentation.pdf) |
 
 <p align="center">
-  <img src="./img_beam.png" width="49%" />
-  <img src="./img_lut.png" width="46%" />
-</p>
-
-<p align="center">
-  <img src="./interface_Qt.png" width="56%" alt="Résultat Interface Qt" />
-  <img src="./img_drr.png" width="37%" alt="DRR" />
+  <img src="./c++.gif" width="85%" alt="Démonstration carrousel Interface C++ Qt" />
 </p>
 
 > [!TIP]
