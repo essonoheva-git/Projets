@@ -60,7 +60,8 @@
   <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
 </p>
 
-### 📌 À propos
+<!-- À propos -->
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> À propos
 
 > [!NOTE]
 > Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
