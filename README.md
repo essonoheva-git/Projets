@@ -27,6 +27,8 @@
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
 * **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
+* **Rapport détaillé format ieee :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
+* **Support de présentation orale :** [`Présentation Projet Quantification TEP`](./Presentation_Quantification_TEP.pdf)
 
 <img src="./img_brute.png" width="33%" /> <img src="./img_atlas.png" width="33%" /> <img src="./img_suv.png" width="33%" />
 
@@ -39,13 +41,12 @@
   * Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation).
   * Calcul des métriques SUV et SUVR (zone de référence : cervelet).
   * Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).
-* **Lien :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
-* **Lien :** [`Présentation Projet Quantification TEP`](./Presentation_Quantification_TEP.pdf)
 
 <hr size="8" color="#00599C">
 
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
+* **Support de présentation orale :** [`Présentation Projet C++`](./C++_Project_presentation.pdf).
 
 <img src="./img_beam.png" width="50%" /> <img src="./img_lut.png" width="45%" />
 
@@ -56,16 +57,16 @@
   * Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
   * Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
   * Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
-* **Lien :** [`Présentation Projet Interface C++`](./C++_Project_presentation.pdf)
 
 <hr size="8" color="#00599C">
 
 #### 🧬 3. Vectorisation et traitement de la maladie de Huntington
 * **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
+* **Rapport détaillé format IEEE :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
+* **Support de présentation orale :** [`Présentation Projet Vectorisation`](./Vectorisation_presentation.pdf)
 * **Points clés :** 
   * Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
   * Analyse de données précliniques sur la réduction de la protéine mHTT.
-* **Lien :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
 
 <hr size="8" color="#00599C">
 
@@ -73,6 +74,7 @@
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
   * Assurance qualité sur LINAC, simulateur CT et calibrateur de dose ISOMED.
   * Contourage TPS (CTV, PTV) et balistique de traitement.
+
 * **Stagiaire en Recherche** | *Groupe PRHE — Laboratoire LAPLACE* (Juin 2025 – Juil 2025)
   * Étude des plasmas froids et espèces réactives (ROS/RNS) pour la décontamination biologique.
 
@@ -87,6 +89,8 @@
 ### 📌 About
 Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
 
+<hr size="8" color="#00599C">
+
 ### 📂 Featured Projects
 
 #### 🧠 1. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
@@ -97,6 +101,8 @@ Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasou
   * Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
 * **Link:** [`TEP Quantification Project`](./Quantification_TEP_eng_ver.pdf)
 
+<hr size="8" color="#00599C">
+
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
 * **Context:** Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026)
 * **Highlights:** 
@@ -105,6 +111,8 @@ Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasou
   * Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.
 * **Link:** [`Qt Interface Project Presentation`](./C++_Project_presentation_eng.pdf)
 
+<hr size="8" color="#00599C">
+
 #### 🧬 3. Vectorization Strategies in Huntington’s Disease
 * **Context:** Bachelor's Project — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
 * **Highlights:** 
@@ -112,6 +120,9 @@ Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasou
   * Analysis of preclinical data regarding mHTT protein knockdown.
 * **Link:** [`Vectorization Project Report`](./Vectorisation_ieee.pdf)
 * **Link:** [`Vectorization Project Presentation`](./Vectorisation_presentation.pdf)
+
+<hr size="8" color="#00599C">
+
 ### 🔬 Clinical & Research Experience
 * **Medical Physics Intern** | *Institut de Cancérologie d’Akanda (ICA)* (Jun 2026 – Jul 2026)
   * Quality assurance protocols on LINAC, CT Simulator, and ISOMED dose calibrators.
