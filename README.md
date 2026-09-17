@@ -161,6 +161,10 @@
 > [!IMPORTANT]
 > Expérience de terrain en milieu clinique et en laboratoire de recherche.
 
+<p align="center">
+  <img src="./ica.gif" width="85%" alt="Démonstration carrousel Interface C++ Qt" />
+</p>
+
 | Période | Poste | Structure | Missions clés |
 | :--- | :--- | :--- | :--- |
 | **Juin – Juil 2026** | 🏥 Stagiaire Physique Médicale | Institut de Cancérologie d'Akanda (ICA) | Assurance qualité LINAC, simulateur CT, calibrateur ISOMED · Contourage TPS (CTV, PTV) · Balistique de traitement |
