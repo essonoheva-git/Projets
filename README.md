@@ -21,6 +21,8 @@
 ### 📌 À propos
 Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
+<hr size="8" color="#00599C">
+
 ### 📂 Projets académiques
 
 #### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
@@ -40,6 +42,8 @@
 * **Lien :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
 * **Lien :** [`Présentation Projet Quantification TEP`](./Presentation_Quantification_TEP.pdf)
 
+<hr size="8" color="#00599C">
+
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
 * **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
 
@@ -54,12 +58,16 @@
   * Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
 * **Lien :** [`Présentation Projet Interface C++`](./C++_Project_presentation.pdf)
 
+<hr size="8" color="#00599C">
+
 #### 🧬 3. Vectorisation et traitement de la maladie de Huntington
 * **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 * **Points clés :** 
   * Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
   * Analyse de données précliniques sur la réduction de la protéine mHTT.
 * **Lien :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
+
+<hr size="8" color="#00599C">
 
 ### 🔬 Stages & Expériences
 * **Stagiaire en Physique Médicale** | *Institut de Cancérologie d'Akanda (ICA)* (Juin 2026 – Juil 2026)
