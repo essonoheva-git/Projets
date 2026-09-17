@@ -9,8 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Toulouse,_France-lightgrey?style=flat-square" />
   <a href="mailto:essono.heva@gmail.com"><img src="https://img.shields.io/badge/Email-essono.heva%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/VOTRE_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hegirziana&label=Visiteurs&color=008080&style=flat-square" />
 </p>
 
 <p align="center">
@@ -21,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
 ## 📑 Sommaire / Table of Contents
@@ -35,7 +33,7 @@
 | [🛠️ Compétences](#-compétences--technical-skills) | [🛠️ Skills](#-compétences--technical-skills) |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🇫🇷%20FRANÇAIS&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
 </p>
 
 ## 🇫🇷 Français
@@ -64,10 +62,11 @@
 
 ### 📌 À propos
 
+> [!NOTE]
 > Étudiante en Master 2 spécialisée en **physique médicale, dosimétrie et imagerie** (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
 </p>
 
 ### 📂 Projets académiques
@@ -96,17 +95,18 @@
   <img src="./img_result.png" width="97%" />
 </p>
 
-**Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
-
-**Points clés :**
-- Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
-- Calcul des métriques SUV et SUVR (zone de référence : cervelet).
-- Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).
+> [!TIP]
+> **Sujet :** Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.
+>
+> **Points clés :**
+> - Prétraitement de volumes cérébraux 3D sous **SPM12** (recalage spatial, normalisation MNI, interpolation trilinéaire).
+> - Calcul des métriques SUV et SUVR (zone de référence : cervelet).
+> - Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
 #### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
@@ -133,15 +133,16 @@
   <img src="./img_drr.png" width="37%" alt="DRR" />
 </p>
 
-**Points clés :**
-- Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
-- Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
-- Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
+> [!TIP]
+> **Points clés :**
+> - Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.
+> - Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).
+> - Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
 #### 🧬 3. Vectorisation et traitement de la maladie de Huntington
@@ -152,15 +153,19 @@
 | **Rapport IEEE** | [`Projet Vectorisation`](./Vectorisation_ieee.pdf) |
 | **Présentation** | [`Support de présentation orale`](./Vectorisation_presentation.pdf) |
 
-**Points clés :**
-- Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
-- Analyse de données précliniques sur la réduction de la protéine mHTT.
+> [!TIP]
+> **Points clés :**
+> - Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.
+> - Analyse de données précliniques sur la réduction de la protéine mHTT.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
 ### 🔬 Stages & Expériences
+
+> [!IMPORTANT]
+> Expérience de terrain en milieu clinique et en laboratoire de recherche.
 
 | Période | Poste | Structure | Missions clés |
 | :--- | :--- | :--- | :--- |
@@ -170,7 +175,7 @@
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
 </p>
 
 ## 🇬🇧 English
@@ -199,10 +204,11 @@
 
 ### 📌 About
 
+> [!NOTE]
 > Master's student in **Medical Radiation Physics** (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
 </p>
 
 ### 📂 Featured Projects
@@ -216,15 +222,16 @@
 | **Context** | Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026) |
 | **Report** | [`TEP Quantification Project`](./Quantification_TEP_eng_ver.pdf) |
 
-**Highlights:**
-- 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
-- SUV and SUVR metrics calculation using the cerebellum as reference region.
-- Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
+> [!TIP]
+> **Highlights:**
+> - 3D brain volume preprocessing using **SPM12** (spatial registration, MNI normalization, interpolation).
+> - SUV and SUVR metrics calculation using the cerebellum as reference region.
+> - Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
 #### 💻 2. Medical Image Visualization & Processing Interface (C++)
@@ -236,15 +243,16 @@
 | **Context** | Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026) |
 | **Presentation** | [`Qt Interface Project Presentation`](./C++_Project_presentation_eng.pdf) |
 
-**Highlights:**
-- Interactive 3D visualization tool for DICOM CT datasets built in C++.
-- Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).
-- Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.
+> [!TIP]
+> **Highlights:**
+> - Interactive 3D visualization tool for DICOM CT datasets built in C++.
+> - Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).
+> - Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=2&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
 #### 🧬 3. Vectorization Strategies in Huntington's Disease
@@ -255,15 +263,19 @@
 | **Report** | [`Vectorization Project Report`](./Vectorisation_ieee.pdf) |
 | **Presentation** | [`Vectorization Project Presentation`](./Vectorisation_presentation.pdf) |
 
-**Highlights:**
-- Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
-- Analysis of preclinical data regarding mHTT protein knockdown.
+> [!TIP]
+> **Highlights:**
+> - Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.
+> - Analysis of preclinical data regarding mHTT protein knockdown.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
 
 ### 🔬 Clinical & Research Experience
+
+> [!IMPORTANT]
+> Hands-on experience in both clinical settings and research laboratories.
 
 | Period | Role | Institution | Key Missions |
 | :--- | :--- | :--- | :--- |
@@ -273,7 +285,7 @@
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=3&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🛠️%20COMPÉTENCES%20/%20SKILLS&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
 </p>
 
 ## 🛠️ Compétences / Technical Skills
