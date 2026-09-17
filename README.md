@@ -73,7 +73,7 @@
 <!-- Projets -->
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
 
-#### 🧠 1. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
+#### 01. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
 
 <p>
   <img src="https://img.shields.io/badge/Imagerie-TEP-2E8B57?style=for-the-badge" />
@@ -82,9 +82,8 @@
 </p>
 
 | | |
-| :--- | :--- |
 | **Cadre** | Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026) |
-| **Rapport** | [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf) |
+| **Rapport IEEE** | [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf) |
 | **Présentation** | [`Support de présentation orale`](./Presentation_Quantification_TEP.pdf) |
 
 <p align="center">
@@ -105,10 +104,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 💻 2. Interface de visualisation et de traitement d'images médicales (C++)
+#### 02. Interface de visualisation et de traitement d'images médicales (C++)
 
 <p>
-  <img src="https://img.shields.io/badge/Imagerie-IRM%2FCT-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Imagerie-IRM%2FScanner-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32px" />
   <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
@@ -135,7 +134,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 🧬 3. Vectorisation et traitement de la maladie de Huntington
+#### 🧬 03. Vectorisation et traitement de la maladie de Huntington
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Recherche_Scientifique-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Recherche_Bibliographique-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
+</p>
 
 | | |
 | :--- | :--- |
@@ -161,6 +165,13 @@
 
 > [!IMPORTANT]
 > Expérience de terrain en milieu clinique et en laboratoire de recherche.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Recherche_Scientifique-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Recherche_Bibliographique-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Radiothérapie_QA-008080?style=flat-square&logo=shield-check&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Imagerie_Médicale-2E8B57?style=flat-square&logo=activity&logoColor=white" height="28px" />
+</p>
 
 <p align="center">
   <img src="./ica.gif" width="98%" alt="Démonstration carrousel Interface C++ Qt" />
