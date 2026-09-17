@@ -16,7 +16,7 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/list-unordered-16.svg" width="20" height="20" /> Sommaire / Table of Contents
-
+  
 | 🇫🇷 Section Française | 🇬🇧 English Section |
 | :--- | :--- |
 | [Curriculum Vitae](#-curriculum-vitae) | [Resume / CV](#-resume--cv) |
