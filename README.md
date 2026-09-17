@@ -81,7 +81,7 @@ Master's student in **Medical Physics, Dosimetry, and Medical Imaging** (PET, SP
   * Interactive 3D visualization tool for DICOM CT datasets built in C++.
   * Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).
   * Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.
-* **Link:** [`/projects/02-cpp-dicom-viewer`](./projects/02-cpp-dicom-viewer)
+* **Link:** [`Qt Interface Project Presentation`](./C++_Project_presentation_eng.pdf)
 
 #### 🧬 3. Vectorization Strategies in Huntington’s Disease
 * **Context:** Bachelor's Project — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025)
