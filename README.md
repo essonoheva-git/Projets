@@ -133,15 +133,15 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 </p>
 
 <blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
- De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devat ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé dur mes camarades et moi. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors c'était serré.
+ De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devant ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose ; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors l'étau se resserait!
 
  Au départ, l'interface était vide à l'exception d'une coupe, un slider, et... c'est tout. Le reste était à faire nous même. Pas de problème, nous avons la coupe axiale, il suffit d'afficher les coupes sagittales et frontales. Après plusieurs essais, rien. Ou alors l'image est inversée, coupée en deux, ou le slider "débordait", laissant plusieurs coupes dans l'oubli. Cette étape devait être la plus simple, mais elle nous donnait déjà du fil à retordre. Une fois passée, nous avons pu faire la répartition des tâches du mieux qu'on pouvait. Les objectifs étaient clairs, les méthodes nettement moins. 
  
  Je me suis chargée des segmentations des tissus (différentiation des os et des tissus mous), suivi de la LUT (Look Up Table) pour une vision optimale des contrastes grâce à une palette de couleur JET, et j'ai appliqué un filtre gaussien qui, bon, "faisait le taff". Le noyau de la convolution spatiale étant trop petit, les effets du filtre était moindres, mais nous en notions quand même les effets. Nous avons tous fait une DRR et avons finalement choisi celle qui correspondait le mieux à l'illustration de l'encadrant (pas la mienne, qui était trop "blanche"...).
 
-Mes camarades ont travaillé sur le faisceau de radiothérapie et l'interface. Les paramètres à prendre en compte étant très dense, nous nous sommes entraidés au maximum. L'interface devait être attractive et regrouper plusieurs options qui devaient faciliter le diagnostic, alors nous avons réfléchi ensemble au thème qui rayonnait le mieux. La navigation sur chaque coupe devait être fluide alors nos avons rajouté des sliders correctement alignés, des curseurs, des coordonées couplées aux valeurs de dose en Gray. Quant au faisceau, il devait prendre en compte la profondeur de pénétration et l'atténuation de dose.
+ Mes camarades ont travaillé sur le faisceau de radiothérapie et l'interface. Les paramètres à prendre en compte étant très dense, nous nous sommes entraidés au maximum. L'interface devait être attractive et regrouper plusieurs options qui devaient faciliter le diagnostic, alors nous avons réfléchi ensemble au thème qui rayonnait le mieux. La navigation sur chaque coupe devait être fluide alors nous avons rajouté des sliders correctement alignés, des curseurs, des coordonées couplées aux valeurs de dose en Gray. Quant au faisceau, il devait prendre en compte la profondeur de pénétration et l'atténuation de dose.
 
-Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la main. Bien que ne je ne puisse pas vous envoyer vers l'interface graphique elle-même, je vous invite à regarder le document de présentation, qui illustre assez bien nos résultats!
+ Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la main. Ce projet m'aura appris qu'un mauvais départ ne veut rien dire. Quand on est assez bas pour toucher le sol, on ne peut qu'aller vers le haut (Hahaha, rire nerveux*). Bien que ne je ne puisse pas vous envoyer vers l'interface graphique elle-même, je vous invite à regarder le document de présentation, qui illustre assez bien nos résultats!
 </blockquote>
 
 
@@ -166,6 +166,14 @@ Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la mai
   <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
   <br>
 
+  <blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Points clés :</strong>
+  <ul>
+    <li>Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.</li>
+    <li>Analyse de données précliniques sur la réduction de la protéine mHTT.</li>
+  </ul>
+</blockquote>
+
 - **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 - **Rapport IEEE :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
 - **Présentation :** [`Support de présentation orale`](./Vectorisation_presentation.pdf)
@@ -176,12 +184,14 @@ Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la mai
 </p>
 
 <blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>Points clés :</strong>
-  <ul>
-    <li>Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.</li>
-    <li>Analyse de données précliniques sur la réduction de la protéine mHTT.</li>
-  </ul>
+
+Ce projet était un sujet de recherche bibliographique. Mon équipe et moi étions en Licence d'Électronique, Énergie et Automatique. Mais puisque nous étions en parcours santé, nous avons pu choisir un sujet correspondant. A dire vrai, ce travail est certainement la cause de mon intérêt pour les maladies neurodégénératives. Avant notre première rencontre avec l'encadrant, il fallait s'informer comme on le souhaitait. J'ai choisi de regarder des vidéos explicatives de courte durée, puis de visionner des témoignages de patients et de leurs famille. Une maladie n'est réellement comprise que lorsqu'on l'expérimente soi-même, ou à défaut, en la voyant elle et ses conséquences dans les yeux d'un autre et ceux de ses proches.
+
+C'était difficle à voir mais nécessaire pour réellement m'imprégner du sujet, de l'importance de ce type de recherche et ses enjeux. La thématique était simple en soit ; nous avions un sujet, et il fallait grâce à la littérature trouver les moyens de vectorisation permettant d'atteindre les régions du cerveau visées pour délivrer le traitement . Les méthodes employées elles, nécessitaient plus de temps de compréhension et d'analyse afin de les expliquer à un jury qui ne les connaissaient pas, et était même issu de domaines totalement opposés. Voici selon moi ce qu'était le véritable challenge de ce projet. Outre la recherche bibliographique, la vulgarisation scientifique était au cœur du rendu.
+
+A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais, présentant les articles que nous avions sélectionnés, les méthodes qui y étaient employées, et leurs limites. Puis, nous avons pendant 20 minutes présenté à l'oral notre travail, en anglais également. Vous trouverez ci-dessous la rédaction et présentation en question, que vous pourrez consulter si vous le souhaitez.
 </blockquote>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
