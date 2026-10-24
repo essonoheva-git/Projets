@@ -50,7 +50,13 @@
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> <span style="color: #FF0000; font-weight: bold;">QUI</span><span style="color: #000000; font-weight: bold;"> SUIS-JE ? (MYSTÈRE, MYSTÈRE)</span>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-  Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le pédigré monumental de l'intitulé du concours. (AVOUEZ que ça envoie). Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!!
+  Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le pédigré monumental de l'intitulé du concours. (AVOUEZ que ça envoie).
+
+<p style="margin-top: 0;">
+Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!!
+  
+  </p>
+    
 </blockquote>
 
 <p align="center">
@@ -60,8 +66,39 @@
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-16.svg" width="20" height="20" /> <span style="color: #FF0000; font-weight: bold;">MON MER-VEI-LLEUX</span><span style="color: #000000; font-weight: bold;"> PARCOURS</span>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-  Bienvenue dans la section dédiée à mon parcours académique et professionnel. Vous retrouverez ci-dessous le détail de mes projets universitaires ainsi que mes expériences de stage.
+  <strong>Master 2 Radiphysique Médicale | Université de Toulouse (2026-En cours)</strong>
+  <ul>
+    <li>Radiothérapie, Dosimétrie, Imagerie Médicale (IRM, Échographie, TEP, TEMP), Rayonnements ionisants, Radioprotection, Simulation Monte Carlo</li>
+
+  </ul>
 </blockquote>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  <strong>Master 1 Radiphysique Médicale | Université de Toulouse (2025-2026)</strong>
+</blockquote>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  <strong>Licence Électronique, Énergie Électrique et Automatique - Inggénierie de la santé| Université de Toulouse (2023-2025)</strong>
+
+</blockquote>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  <strong>Classe préparatoire aux grandes écoles (CPGE) | CPGE Pothier, Orléans (2022-2023)</strong>
+  <ul>
+    <li>Filière PCSI - Physique Chimie Sciences Industrielles </li>
+
+  </ul>
+</blockquote>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  <strong> Bac Général et Technologique - Mention Très Bien | Paris, Fance (2022)</strong>
+  <ul>
+    <li>Spécialités Mathématiques et Physique-chimie </li>
+
+  </ul>
+</blockquote>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
@@ -70,7 +107,9 @@
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> <span style="color: #FF0000; font-weight: bold;">PRO</span><span style="color: #000000; font-weight: bold;">JETS ACADÉMIQUES</span>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant mes années de collège et de lycée, j'ai toujours préféré travailler seule. J'étais confiante, j'avais l'envie, bref, j'en avais la capacité et je préférais que ça se passe comme ça. Pourquoi se diviser le travail alors qu'il peut être bâclé, non fait ou mal fait? Inutile de déléguer quand on est mieux servi par soi-même. A la fac, tout a changé. Même si je le voulais, les projets sont trop lourds pour êtres menés à terme seule. Aucun de nous n'a eu le choix, nous avons dû répartir les tâches et se faire confiance les uns les autres. Aujourd'hui, après 3 gros projets en équipe, j'en suis contente. Et même si je ne le dis pas forcément à chaque rendu, je remercie mes camarades pour leurs efforts à mes côtés. Je leur suis reconnaissante pour leur travail, leurs remarques pertinentes, leurs raisonnements, leurs mots d'encouragement et leur persévérance. Je suis peut-être (et sans doute) tombée sur les bons, mais aujourd'hui je suis certaine que le travail d'équipe est une chance et une force à exploiter.
+Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant mes années de collège et de lycée, j'ai toujours préféré travailler seule. J'étais confiante, j'avais l'envie, bref, j'en avais la capacité et je préférais que ça se passe comme ça. Pourquoi se diviser le travail alors qu'il peut être bâclé, non fait ou mal fait? Inutile de déléguer quand on est mieux servi par soi-même. 
+  
+  A la fac, tout a changé. Même si je le voulais, les projets sont trop lourds pour êtres menés à terme seule. Aucun de nous n'a eu le choix, nous avons dû répartir les tâches et se faire confiance les uns les autres. Aujourd'hui, après 3 gros projets en équipe, j'en suis contente. Et même si je ne le dis pas forcément à chaque rendu, je remercie mes camarades pour leurs efforts à mes côtés. Je leur suis reconnaissante pour leur travail, leurs remarques pertinentes, leurs raisonnements, leurs mots d'encouragement et leur persévérance. Je suis peut-être (et sans doute) tombée sur les bons, mais aujourd'hui je suis certaine que le travail d'équipe est une chance et une force à exploiter.
 </blockquote>
 
 <!-- PROJET 01 -->
