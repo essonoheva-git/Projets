@@ -1,62 +1,39 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:008080&height=220&section=header&text=Hegirziana%20Heva%20OBONE%20ESSONO&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=M2%20Radiophysique%20M%C3%A9dicale%20%7C%20Medical%20Physics%20Student%20%E2%80%A2%20Universit%C3%A9%20de%20Toulouse&descSize=13.5&descAlignY=68" width="100%" alt="Header" />
+<div style="background-color: #3D0C11; padding: 35px 20px; border-radius: 8px; text-align: center; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box;">
+<h1 style="margin: 0 0 8px 0; font-size: 28px; color: #ffffff; border: none; font-weight: 700;">
+Hegirziana Heva OBONE ESSONO
+</h1>
+<p style="margin: 0 0 20px 0; font-size: 15px; color: #f0f0f0; font-weight: 400;">
+M2 Radiophysique Médicale &bull; Université de Toulouse
 </p>
+<div style="margin-bottom: 25px;">
+<a href="https://www.linkedin.com/in/heva-essono" target="_blank" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 4px;" />
+</a>
+</div>
+<details style="display: inline-block; text-align: left; background-color: rgba(0, 0, 0, 0.25); padding: 8px 16px; border-radius: 6px; cursor: pointer;">
+<summary style="font-weight: 600; font-size: 14px; outline: none; cursor: pointer; list-style: none; color: #ffffff;">
+<span style="display: inline-flex; align-items: center; gap: 8px;">
+<span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center;">
+<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/list-unordered-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Menu" />
+</span>
+Sommaire
+</span>
+</summary>
+<ul style="margin: 12px 0 4px 24px; padding: 0; list-style-type: disc; font-size: 14px; line-height: 1.6;">
+<li style="margin-bottom: 4px;"><a href="#-à-propos" style="color: #ffcccc; text-decoration: underline;">Qui suis-je? (Mystère, mystère)</a></li>
+<li style="margin-bottom: 4px;"><a href="#-à-propos" style="color: #ffcccc; text-decoration: underline;">Mon Mer-vei-lleux Parcours</a></li>
+<li style="margin-bottom: 4px;"><a href="#-projets-académiques" style="color: #ffcccc; text-decoration: underline;">Mes Projets Académiques</a></li>
+<li style="margin-bottom: 4px;"><a href="#-stages--expériences" style="color: #ffcccc; text-decoration: underline;"> Mes Stages & Expériences pro</a></li>
+<li style="margin-bottom: 0;"><a href="#-compétences--technical-skills" style="color: #ffcccc; text-decoration: underline;">Mes Compétences</a></li>
+</ul>
+</details>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00599C&center=true&vCenter=true&width=650&lines=Radiophysique+M%C3%A9dicale+%7C+Dosim%C3%A9trie+%7C+Imagerie+M%C3%A9dicale;TEP+%C2%B7+TEMP+%C2%B7+IRM+%C2%B7+Scanner+%C2%B7+%C3%89chographie;C%2B%2B+%C2%B7+MATLAB+%C2%B7+SPM12+%C2%B7+Traitement+d%27image" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Toulouse,_France-lightgrey?style=flat-square" />
-  <a href="mailto:essono.heva@gmail.com"><img src="https://img.shields.io/badge/Email-essono.heva%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/list-unordered-16.svg" width="20" height="20" /> Sommaire / Table of Contents
-  
-| 🇫🇷 Section Française | 🇬🇧 English Section |
-| :--- | :--- |
-| [Curriculum Vitae](#-curriculum-vitae) | [Resume / CV](#-resume--cv) |
-| [À propos](#-à-propos) | [About](#-about) |
-| [Projets académiques](#-projets-académiques) | [Featured Projects](#-featured-projects) |
-| [Stages & Expériences](#-stages--expériences) | [Clinical & Research Experience](#-clinical--research-experience) |
-| [Compétences](#-compétences--technical-skills) | [Technical Skills](#-compétences--technical-skills) |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🇫🇷%20FRANÇAIS&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
-</p>
-
-## 🇫🇷 Français
-
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-16.svg" width="20" height="20" /> Curriculum Vitae
-
-<p align="center">
-  <a href="./Stage_CV.pdf"><img src="https://img.shields.io/badge/📥_Télécharger_mon_CV-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-</p>
-
-**Domaines :** Radiophysique Médicale, Dosimétrie, Imagerie Médicale & Traitement d'Images.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="32px" />
-  <img src="https://img.shields.io/badge/Dosimétrie-Radiothérapie_QA-008080?style=for-the-badge" height="32px" />
-  <img src="https://img.shields.io/badge/Imagerie-TEP%2FIRM%2FCT%2FTEMP-2E8B57?style=for-the-badge" height="32px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="32px" />
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> À propos
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> Qui suis-je? (Mystère, mystère)
 
 <blockquote style="border-left: 4px solid #00599C; padding-left: 12px; margin-left: 0;">
-  <strong>💡 Note :</strong> Étudiante en Master 2 spécialisée en <strong>physique médicale, dosimétrie et imagerie</strong> (TEP, TEMP, IRM, Scanner, Échographie). Mon parcours associe la physique des rayonnements, la radiobiologie et le traitement d'images médicales à une pratique concrète en assurance qualité en radiothérapie, quantification métabolique TEP et développement logiciel en C++.
+  Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le pédigré monumental de l'intitulé du concours. (AVOUEZ que ça envoie). Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!!
 </blockquote>
 
 <p align="center">
@@ -65,7 +42,10 @@
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
 
-#### 01. Quantification métabolique cérébrale dans la maladie d'Alzheimer (TEP/IRM)
+<!-- PROJET 01 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=01.%20Quantification%20m%C3%A9tabolique%20c%C3%A9r%C3%A9brale%20dans%20la%20maladie%20d%27Alzheimer%20%28TEP%2FIRM%29&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 01" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Imagerie-TEP-2E8B57?style=for-the-badge" />
@@ -73,11 +53,14 @@
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
 </p>
 
-| Élément | Détails |
-| :--- | :--- |
-| **Cadre** | Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026) |
-| **Rapport IEEE** | [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf) |
-| **Présentation** | [`Support de présentation orale`](./Presentation_Quantification_TEP.pdf) |
+<details>
+  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <br>
+
+- **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
+- **Rapport IEEE :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
+- **Présentation :** [`Support de présentation orale`](./Presentation_Quantification_TEP.pdf)
+</details>
 
 <p align="center">
   <img src="./tep.gif" width="98%" alt="Démonstration Quantification TEP" />
@@ -93,13 +76,17 @@
   </ul>
 </blockquote>
 
-<p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
+<p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 02. Interface de visualisation et de traitement d'images médicales (C++)
+
+<!-- PROJET 02 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=02.%20Interface%20de%20visualisation%20et%20de%20traitement%20d%27images%20m%C3%A9dicales%20%28C%2B%2B%29&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 02" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Imagerie-IRM%2FScanner-2E8B57?style=for-the-badge" />
@@ -108,10 +95,13 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
 </p>
 
-| Élément | Détails |
-| :--- | :--- |
-| **Cadre** | Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026) |
-| **Présentation** | [`Présentation Projet C++`](./C++_Project_presentation.pdf) |
+<details>
+  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <br>
+
+- **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
+- **Présentation :** [`Présentation Projet C++`](./C++_Project_presentation.pdf)
+</details>
 
 <p align="center">
   <img src="./cpp.gif" width="99%" alt="Démonstration Interface C++ Qt" />
@@ -126,24 +116,31 @@
   </ul>
 </blockquote>
 
-<p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
+<p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
 </p>
 
-#### 03. Vectorisation et traitement de la maladie de Huntington
+
+<!-- PROJET 03 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=03.%20Vectorisation%20et%20traitement%20de%20la%20maladie%20de%20Huntington&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Recherche_Scientifique-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
   <img src="https://img.shields.io/badge/Recherche_Bibliographique-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
 </p>
 
-| Élément | Détails |
-| :--- | :--- |
-| **Cadre** | Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025) |
-| **Rapport IEEE** | [`Projet Vectorisation`](./Vectorisation_ieee.pdf) |
-| **Présentation** | [`Support de présentation orale`](./Vectorisation_presentation.pdf) |
+<details>
+  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <br>
+
+- **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
+- **Rapport IEEE :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
+- **Présentation :** [`Support de présentation orale`](./Vectorisation_presentation.pdf)
+</details>
 
 <p align="center">
   <img src="./vect.gif" width="95%" alt="Démonstration Vectorisation" />
@@ -156,7 +153,6 @@
     <li>Analyse de données précliniques sur la réduction de la protéine mHTT.</li>
   </ul>
 </blockquote>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
 </p>
@@ -188,173 +184,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00457C,100:00599C&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
 </p>
-
-## 🇬🇧 English
-
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-16.svg" width="20" height="20" /> Resume / CV
-
-<p align="center">
-  <a href="./Internship_resume.pdf"><img src="https://img.shields.io/badge/📥_Download_full_CV-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-</p>
-
-**Fields:** Medical Physics, Dosimetry, Medical Imaging & Image Processing.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="32px" />
-  <img src="https://img.shields.io/badge/Dosimetry-Radiotherapy_QA-008080?style=for-the-badge" height="32px" />
-  <img src="https://img.shields.io/badge/Imaging-PET%2FMRI%2FCT%2FSPECT-2E8B57?style=for-the-badge" height="32px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="32px" />
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> About
-
-<blockquote style="border-left: 4px solid #00599C; padding-left: 12px; margin-left: 0;">
-  <strong>💡 Note:</strong> Master's student in <strong>Medical Radiation Physics</strong> (PET, SPECT, MRI, CT, Ultrasound). My academic background combines radiation physics, radiobiology, and medical image processing with hands-on experience in radiotherapy QA, PET metabolic quantification, and C++ software development.
-</blockquote>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Featured Projects
-
-#### 01. Brain Metabolic Quantification in Alzheimer's Disease (PET/MRI)
-
-<p>
-  <img src="https://img.shields.io/badge/Imaging-PET-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SPM12-Neuroimaging-4B0082?style=for-the-badge" height="32px" />
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
-</p>
-
-| Item | Details |
-| :--- | :--- |
-| **Context** | Master 1 Project — *Toulouse NeuroImaging Center (ToNIC)* (Mar 2026 – May 2026) |
-| **Report** | [`TEP Quantification Project`](./Quantification_TEP_eng_ver.pdf) |
-
-<p align="center">
-  <img src="./tep.gif" width="98%" alt="PET Quantification Demo" />
-</p>
-
-<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>Highlights:</strong>
-  <ul>
-    <li>3D brain volume preprocessing using <strong>SPM12</strong> (spatial registration, MNI normalization, interpolation).</li>
-    <li>SUV and SUVR metrics calculation using the cerebellum as reference region.</li>
-    <li>Regional metabolic quantification in key brain areas (frontal cortex, precuneus, posterior cingulate).</li>
-  </ul>
-</blockquote>
-
-<p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
-</p>
-
-#### 02. Medical Image Visualization & Processing Interface (C++)
-
-<p>
-  <img src="https://img.shields.io/badge/Imaging-MRI%2FCT-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="32px" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
-</p>
-
-| Item | Details |
-| :--- | :--- |
-| **Context** | Master 1 Project — *Faculty of Science and Engineering, Toulouse* (Feb 2026 – May 2026) |
-| **Presentation** | [`Qt Interface Project Presentation`](./C++_Project_presentation_eng.pdf) |
-
-<p align="center">
-  <img src="./cpp.gif" width="99%" alt="C++ Qt Interface Demo" />
-</p>
-
-<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>Highlights:</strong>
-  <ul>
-    <li>Interactive 3D visualization tool for DICOM CT datasets built in C++.</li>
-    <li>Spatial convolution 2D Gaussian filter, custom Look-Up Tables (LUT / Jet Palette).</li>
-    <li>Radiotherapy beam simulation, Digitally Reconstructed Radiographs (DRR), and real-time tissue segmentation.</li>
-  </ul>
-</blockquote>
-
-<p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
-</p>
-
-#### 03. Vectorization Strategies in Huntington's Disease
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scientific_Research-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
-  <img src="https://img.shields.io/badge/Literature_Review-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
-</p>
-
-| Item | Details |
-| :--- | :--- |
-| **Context** | Bachelor's Project — *SOFTMAT Laboratory, Toulouse* (Sep 2024 – Jan 2025) |
-| **Report** | [`Vectorization Project Report`](./Vectorisation_ieee.pdf) |
-| **Presentation** | [`Vectorization Project Presentation`](./Vectorisation_presentation.pdf) |
-
-<p align="center">
-  <img src="./vect.gif" width="95%" alt="Vectorization Demo" />
-</p>
-
-<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>Highlights:</strong>
-  <ul>
-    <li>Literature review on targeted drug delivery platforms (AAV5/miRNA) crossing the blood-brain barrier.</li>
-    <li>Analysis of preclinical data regarding mHTT protein knockdown.</li>
-  </ul>
-</blockquote>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Clinical & Research Experience
-
-<blockquote style="border-left: 4px solid #4B0082; padding-left: 12px; margin-left: 0;">
-  <strong>📌 Experience:</strong> Hands-on experience in both clinical settings and research laboratories.
-</blockquote>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scientific_Research-00599C?style=flat-square&logo=microscope&logoColor=white" height="28px" />
-  <img src="https://img.shields.io/badge/Literature_Review-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
-  <img src="https://img.shields.io/badge/Radiotherapy_QA-008080?style=flat-square&logo=shield-check&logoColor=white" height="28px" />
-  <img src="https://img.shields.io/badge/Medical_Imaging-2E8B57?style=flat-square&logo=activity&logoColor=white" height="28px" />
-</p>
-
-<p align="center">
-  <img src="./ica.gif" width="98%" alt="ICA Internship Demo" />
-</p>
-
-| Period | Role | Institution | Key Missions |
-| :--- | :--- | :--- | :--- |
-| **Jun – Jul 2026** | 🏥 Medical Physics Intern | Institut de Cancérologie d'Akanda (ICA) | QA on LINAC, CT Simulator, ISOMED dose calibrators · TPS: OAR/CTV/PTV contouring & beam arrangement |
-| **Jun – Jul 2025** | 🧪 Research Intern | PRHE Group — LAPLACE Laboratory | Cold plasma reactive species (ROS/RNS) for biological decontamination |
-
-<p align="right"><a href="#-sommaire--table-of-contents">↑ Back to top</a></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008080,100:00599C&height=45&width=1000&text=🛠️%20COMPÉTENCES%20/%20SKILLS&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
-</p>
-
-## 🛠️ Compétences / Technical Skills
-
-| Domaine / Domain | Outils & Technologies / Tools |
-| :--- | :--- |
-| 🧠 **Neuroimaging** | SPM12, MRIcron, MRIcroGL, MNI Space, SUVR |
-| 💻 **Programming** | C, C++, MATLAB |
-| 🖥️ **Environments** | VS Code, PyCharm, Qt Creator, Linux (Ubuntu), Windows |
-| ☢️ **Medical Physics** | Dosimetry, Radiotherapy QA, TPS Contouring, Radiobiology |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:008080&height=120&section=footer&width=100%" width="100%" />
