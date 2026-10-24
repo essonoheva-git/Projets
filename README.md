@@ -78,7 +78,7 @@ Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujour
 </blockquote>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-  <strong>Licence Électronique, Énergie Électrique et Automatique - Inggénierie de la santé| Université de Toulouse (2023-2025)</strong>
+  <strong>Licence Électronique, Énergie Électrique et Automatique - Ingénierie de la santé | Université de Toulouse (2023-2025)</strong>
 
 </blockquote>
 
