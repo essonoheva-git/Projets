@@ -108,8 +108,9 @@ Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujour
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
 Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant mes années de collège et de lycée, j'ai toujours préféré travailler seule. J'étais confiante, j'avais l'envie, bref, j'en avais la capacité et je préférais que ça se passe comme ça. Pourquoi se diviser le travail alors qu'il peut être bâclé, non fait ou mal fait? Inutile de déléguer quand on est mieux servi par soi-même. 
-  
+  <p style="margin-top: 0;">
   A la fac, tout a changé. Même si je le voulais, les projets sont trop lourds pour êtres menés à terme seule. Aucun de nous n'a eu le choix, nous avons dû répartir les tâches et se faire confiance les uns les autres. Aujourd'hui, après 3 gros projets en équipe, j'en suis contente. Et même si je ne le dis pas forcément à chaque rendu, je remercie mes camarades pour leurs efforts à mes côtés. Je leur suis reconnaissante pour leur travail, leurs remarques pertinentes, leurs raisonnements, leurs mots d'encouragement et leur persévérance. Je suis peut-être (et sans doute) tombée sur les bons, mais aujourd'hui je suis certaine que le travail d'équipe est une chance et une force à exploiter.
+  </p>
 </blockquote>
 
 <!-- PROJET 01 -->
@@ -150,12 +151,15 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <strong>Sujet :</strong> Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.<br/><br/>
   
   Pour ne rien vous cacher, ce projet était le plus intéressant sur lequel j'ai pu travailler. Nous étions trois, munis de nos ordinateurs, des données DICOM, avec en face MATLAB et SPM12 qui nous regardaient droit dans les yeux. Notre encadrant nous avait fourni une base de données de plusieurs patients, l'objectif étant d'effectuer un pré-traitement, de calculer des valeurs de SUV et de SUVr afin de quantifier le métabolisme de chacun, pour mener finalement aux analyses staistiques des résultats. Les patients étaient différenciés par l'évolution de la maladie d'Alzheimer. Soit ils étaient bien portants, soit ils était moyennement atteints ou complètement affectés. Grâce aux données XML nous savions qui était quoi, mais il fallait le prouver.
-
+<p style="margin-top: 0;">
   Sur deux mois, le travail a été réparti, et pendant que mes caramarades travaillaient sur le SUV, j'ai travaillé sur le SUVr. Nous avons tous eu droit au prétraitement des données, à savoir la normalisation spatiale des images TEP, le recadrage manuel ainsi que le rééchantillonage par interpolation trilinéaire. Par la suite, avec un atlas de volume cérébral qui nous a été fourni, j'ai pu superposer les images pré-traitées et calculer une moyenne d'activité pour chaque zone (lobe pariétal, occipital, temporal, frontal) en utilisant le cervelet comme zone de référence peu touchée par la maladie. Effectuer le calcul pour toute une cohorte étant  
-
+</p>
+<p style="margin-top: 0;">
   Très vite, les résultats ont commencé à apparaître, de façon assez simple. Le cervelet étant la référence, il présentait une acitivité de 1, signe d'un métabolisme normal et sain. Les autres zones présentaient des valeurs très en dessous, signes de troubles cognitifs, ou bien des valeurs un peu au dessus (excellente acitivité), ou encore des valeurs trop au-dessus (signes d'hyperactivité).
-
+</p>
+<p style="margin-top: 0;">
   Enfin, en regroupant plusieurs données des patients, âge, sexe, scores FAQ (attestant de l'autonomie), SUV et SUVr selon les régions cérébrales, et statuts (Contrôle, Moyennement atteint, Atteint), nous avons mené nos analyses statistiques. A l'issue de ce projet, nous avons écris un article au format IEEE détaillant le cheminement, les étapes et les résultats. Puis, nous avons présenté pendant 20 minutes notre rendu devant un jury de chercheurs et de professeurs au ToNIC. Je vous renvoie vers les documents du projet pour en connaître les détails et résultats, si vous êtes intéressé.
+</p>
 </blockquote>
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
@@ -200,14 +204,18 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devant ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose ; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors l'étau se resserait!
-
+<p style="margin-top: 0;">
   Au départ, l'interface était vide à l'exception d'une coupe, un slider, et... c'est tout. Le reste était à faire nous même. Pas de problème, nous avons la coupe axiale, il suffit d'afficher les coupes sagittales et frontales. Après plusieurs essais, rien. Ou alors l'image est inversée, coupée en deux, ou le slider "débordait", laissant plusieurs coupes dans l'oubli. Cette étape devait être la plus simple, mais elle nous donnait déjà du fil à retordre. Une fois passée, nous avons pu faire la répartition des tâches du mieux qu'on pouvait. Les objectifs étaient clairs, les méthodes nettement moins. 
- 
+</p>
+  <p style="margin-top: 0;">
   Je me suis chargée des segmentations des tissus (différentiation des os et des tissus mous), suivi de la LUT (Look Up Table) pour une vision optimale des contrastes grâce à une palette de couleur JET, et j'ai appliqué un filtre gaussien qui, bon, "faisait le taff". Le noyau de la convolution spatiale étant trop petit, les effets du filtre était moindres, mais nous en notions quand même les effets. Nous avons tous fait une DRR et avons finalement choisi celle qui correspondait le mieux à l'illustration de l'encadrant (pas la mienne, qui était trop "blanche"...).
-
+  </p>
+  <p style="margin-top: 0;">
   Mes camarades ont travaillé sur le faisceau de radiothérapie et l'interface. Les paramètres à prendre en compte étant très dense, nous nous sommes entraidés au maximum. L'interface devait être attractive et regrouper plusieurs options qui devaient faciliter le diagnostic, alors nous avons réfléchi ensemble au thème qui rayonnait le mieux. La navigation sur chaque coupe devait être fluide alors nous avons rajouté des sliders correctement alignés, des curseurs, des coordonées couplées aux valeurs de dose en Gray. Quant au faisceau, il devait prendre en compte la profondeur de pénétration et l'atténuation de dose.
-
+  </p>
+  <p style="margin-top: 0;">
   Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la main. Ce projet m'aura appris qu'un mauvais départ ne veut rien dire. Quand on est assez bas pour toucher le sol, on ne peut qu'aller vers le haut (Hahaha, rire nerveux*). Bien que ne je ne puisse pas vous envoyer vers l'interface graphique elle-même, je vous invite à regarder le document de présentation, qui illustre assez bien nos résultats!
+  </p>
 </blockquote>
 
 
@@ -253,10 +261,13 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
 
 Ce projet était un sujet de recherche bibliographique. Mon équipe et moi étions en Licence d'Électronique, Énergie et Automatique. Mais puisque nous étions en parcours santé, nous avons pu choisir un sujet correspondant. A dire vrai, ce travail est certainement la cause de mon intérêt pour les maladies neurodégénératives. Avant notre première rencontre avec l'encadrant, il fallait s'informer comme on le souhaitait. J'ai choisi de regarder des vidéos explicatives de courte durée, puis de visionner des témoignages de patients et de leurs famille. Une maladie n'est réellement comprise que lorsqu'on l'expérimente soi-même, ou à défaut, en la voyant elle et ses conséquences dans les yeux d'un autre et ceux de ses proches.
-
+<p style="margin-top: 0;">
 C'était difficle à voir mais nécessaire pour réellement m'imprégner du sujet, de l'importance de ce type de recherche et ses enjeux. La thématique était simple en soit ; nous avions un sujet, et il fallait grâce à la littérature trouver les moyens de vectorisation permettant d'atteindre les régions du cerveau visées pour délivrer le traitement . Les méthodes employées elles, nécessitaient plus de temps de compréhension et d'analyse afin de les expliquer à un jury qui ne les connaissaient pas, et était même issu de domaines totalement opposés. Voici selon moi ce qu'était le véritable challenge de ce projet. Outre la recherche bibliographique, la vulgarisation scientifique était au cœur du rendu.
+</p>
 
+<p style="margin-top: 0;">
 A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais, présentant les articles que nous avions sélectionnés, les méthodes qui y étaient employées, et leurs limites. Puis, nous avons pendant 20 minutes présenté à l'oral notre travail, en anglais également. Vous trouverez ci-dessous la rédaction et présentation en question, que vous pourrez consulter si vous le souhaitez.
+</p>
 </blockquote>
 
 <p align="center">
