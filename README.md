@@ -37,7 +37,7 @@ Sommaire
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=6&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
@@ -95,7 +95,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 <p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
 </p>
 
 
@@ -148,7 +148,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 <p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=4&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
 </p>
 
 
@@ -162,17 +162,18 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <img src="https://img.shields.io/badge/Recherche_Bibliographique-4B0082?style=flat-square&logo=book-open&logoColor=white" height="28px" />
 </p>
 
-<details>
-  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <br>
 
   <blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>Points clés :</strong>
+  <strong>Points clés de ce travail :</strong>
   <ul>
     <li>Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.</li>
     <li>Analyse de données précliniques sur la réduction de la protéine mHTT.</li>
   </ul>
 </blockquote>
+
+<details>
+  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <br>
 
 - **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
 - **Rapport IEEE :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
@@ -193,7 +194,7 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:008080&height=8&width=1000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Stages & Expériences
@@ -215,7 +216,7 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 
 | Période | Poste | Structure | Missions clés |
 | :--- | :--- | :--- | :--- |
-| **Juin – Juil 2026** | 🏥 Stagiaire Physique Médicale | Institut de Cancérologie d'Akanda (ICA) | Assurance qualité LINAC, simulateur CT, calibrateur ISOMED · Contourage TPS (CTV, PTV) · Balistique de traitement |
+| **Juin – Juil 2026** | 🏥 Stagiaire Physique Médicale | Institut de Cancérologie d'Akanda (ICA) | Assurance qualité LINAC, simulateur CT, calibrateur ISOMED · Contourage TPS (CTV, PTV)|
 | **Juin – Juil 2025** | 🧪 Stagiaire Recherche | Groupe PRHE — Laboratoire LAPLACE | Plasmas froids · Espèces réactives (ROS/RNS) · Décontamination biologique |
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
