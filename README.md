@@ -53,6 +53,16 @@ Sommaire
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
 </p>
 
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Points clés de ce travail :</strong>
+  <ul>
+    <li>Prétraitement de volumes cérébraux 3D sous <strong>SPM12</strong> (recalage spatial, normalisation MNI, interpolation trilinéaire).</li>
+    <li>Calcul des SUV et SUVR (zone de référence : cervelet).</li>
+    <li>Analyse quantitative du métabolisme cérébral .</li>
+    <li>Analyses statistiques .</li>
+  </ul>
+</blockquote>
+
 <details>
   <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
   <br>
@@ -67,13 +77,15 @@ Sommaire
 </p>
 
 <blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>🎯 Sujet :</strong> Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.<br/><br/>
-  <strong>Points clés :</strong>
-  <ul>
-    <li>Prétraitement de volumes cérébraux 3D sous <strong>SPM12</strong> (recalage spatial, normalisation MNI, interpolation trilinéaire).</li>
-    <li>Calcul des métriques SUV et SUVR (zone de référence : cervelet).</li>
-    <li>Analyse quantitative du métabolisme cérébral (cortex frontal, précunéus, cingulaire postérieur).</li>
-  </ul>
+  <strong>Sujet :</strong> Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.<br/><br/>
+  
+  Pour ne rien vous cacher, ce projet était le plus intéressant sur lequel j'ai pu travailler. Nous étions trois, munis de nos ordinateurs, des données DICOM, avec en face MATLAB et SPM12 qui nous regardaient droit dans les yeux. Notre encadrant nous avait fourni une base de données de plusieurs patients, l'objectif étant d'effectuer un pré-traitement, de calculer des valeurs de SUV et de SUVr afin de quantifier le métabolisme de chacun, pour mener finalement aux analyses staistiques des résultats. Les patients étaient différenciés par l'évolution de la maladie d'Alzheimer. Soit ils étaient bien portants, soit ils était moyennement atteints ou complètement affectés. Grâce aux données XML nous savions qui était quoi, mais il fallait le prouver.
+
+  Sur deux mois, le travail a été réparti, et pendant que mes caramarades travaillaient sur le SUV, j'ai travaillé sur le SUVr. Nous avons tous eu droit au prétraitement des données, à savoir la normalisation spatiale des images TEP, le recadrage manuel ainsi que le rééchantillonage par interpolation trilinéaire. Par la suite, avec un atlas de volume cérébral qui nous a été fourni, j'ai pu superposer les images pré-traitées et calculer une moyenne d'activité pour chaque zone (lobe pariétal, occipital, temporal, frontal) en utilisant le cervelet comme zone de référence peu touchée par la maladie. Effectuer le calcul pour toute une cohorte étant  
+
+  Très vite, les résultats ont commencé à apparaître, de façon assez simple. Le cervelet étant la référence, il présentait une acitivité de 1, signe d'un métabolisme normal et sain. Les autres zones présentaient des valeurs très en dessous, signes de troubles cognitifs, ou bien des valeurs un peu au dessus (excellente acitivité), ou encore des valeurs trop au-dessus (signes d'hyperactivité).
+
+  Enfin, en regroupant plusieurs données des patients, âge, sexe, scores FAQ (attestant de l'autonomie), SUV et SUVr selon les régions cérébrales, et statuts (Contrôle, Moyennement atteint, Atteint), nous avons mené nos analyses statistiques. A l'issue de ce projet, nous avons écris un article au format IEEE détaillant le cheminement, les étapes et les résultats. Puis, nous avons présenté pendant 20 minutes notre rendu devant un jury de chercheurs et de professeurs au ToNIC. Je vous renvoie vers les documents du projet pour en connaître les détails et résultats, si vous êtes intéressé.
 </blockquote>
 
 <p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
@@ -181,9 +193,6 @@ Sommaire
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00457C,100:00599C&height=45&width=1000&text=🇬🇧%20ENGLISH&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:008080&height=120&section=footer&width=100%" width="100%" />
