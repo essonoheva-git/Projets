@@ -11,14 +11,17 @@
 
   <!-- BADGES : LOCALISATION + LINKEDIN (BLEU ORIGINAL) + GMAIL -->
   <p align="center" style="margin-bottom: 25px;">
-    <img src="https://img.shields.io/badge/📍-Toulouse,_France-lightgrey?style=for-the-badge" alt="Localisation" />
+    <!-- Localisation (Fond Noir avec logo vectoriel sobre) -->
+    <img src="https://img.shields.io/badge/Toulouse,_France-000000?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Localisation" />
     &nbsp;&nbsp;
+    <!-- LinkedIn (Bleu Original) -->
     <a href="https://www.linkedin.com/in/heva-essono" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
+    <!-- Gmail (Fond Noir) -->
     <a href="mailto:essono.heva@gmail.com">
-      <img src="https://img.shields.io/badge/Email-essono.heva%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/essono.heva%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
 
