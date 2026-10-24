@@ -264,7 +264,6 @@ Ce projet était un sujet de recherche bibliographique. Mon équipe et moi étio
 <p style="margin-top: 0;">
 C'était difficle à voir mais nécessaire pour réellement m'imprégner du sujet, de l'importance de ce type de recherche et ses enjeux. La thématique était simple en soit ; nous avions un sujet, et il fallait grâce à la littérature trouver les moyens de vectorisation permettant d'atteindre les régions du cerveau visées pour délivrer le traitement . Les méthodes employées elles, nécessitaient plus de temps de compréhension et d'analyse afin de les expliquer à un jury qui ne les connaissaient pas, et était même issu de domaines totalement opposés. Voici selon moi ce qu'était le véritable challenge de ce projet. Outre la recherche bibliographique, la vulgarisation scientifique était au cœur du rendu.
 </p>
-
 <p style="margin-top: 0;">
 A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais, présentant les articles que nous avions sélectionnés, les méthodes qui y étaient employées, et leurs limites. Puis, nous avons pendant 20 minutes présenté à l'oral notre travail, en anglais également. Vous trouverez ci-dessous la rédaction et présentation en question, que vous pourrez consulter si vous le souhaitez.
 </p>
@@ -277,7 +276,7 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> <span style="color: #FF0000; font-weight: bold;">STA</span><span style="color: #000000; font-weight: bold;">GES & EXPÉRIENCES</span>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-  <strong>📌 Expérience :</strong> Immersion de terrain en milieu clinique et en laboratoire de recherche.
+  <strong> Expérience :</strong> Immersion de terrain en milieu clinique et en laboratoire de recherche.
 </blockquote>
 
 <p align="center">
@@ -293,8 +292,8 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 
 | Période | Poste | Structure | Missions clés |
 | :--- | :--- | :--- | :--- |
-| **Juin – Juil 2026** | 🏥 Stagiaire Physique Médicale | Institut de Cancérologie d'Akanda (ICA) | Assurance qualité LINAC, simulateur CT, calibrateur ISOMED · Contourage TPS (CTV, PTV)|
-| **Juin – Juil 2025** | 🧪 Stagiaire Recherche | Groupe PRHE — Laboratoire LAPLACE | Plasmas froids · Espèces réactives (ROS/RNS) · Décontamination biologique |
+| **Juin – Juil 2026** | Stagiaire Physique Médicale | Institut de Cancérologie d'Akanda (ICA) | Assurance qualité LINAC, simulateur CT, calibrateur ISOMED · Contourage TPS (CTV, PTV)|
+| **Juin – Juil 2025** | Stagiaire Recherche | Groupe PRHE — Laboratoire LAPLACE | Plasmas froids · Espèces réactives (ROS/RNS) · Décontamination biologique |
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
