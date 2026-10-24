@@ -32,7 +32,7 @@ Sommaire
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="20" height="20" /> Qui suis-je? (Mystère, mystère)
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le pédigré monumental de l'intitulé du concours. (AVOUEZ que ça envoie). Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!!
 </blockquote>
 
@@ -42,7 +42,7 @@ Sommaire
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-16.svg" width="20" height="20" /> Mon Mer-vei-lleux Parcours
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   Bienvenue dans la section dédiée à mon parcours académique et professionnel. Vous retrouverez ci-dessous le détail de mes projets universitaires ainsi que mes expériences de stage.
 </blockquote>
 
@@ -52,7 +52,7 @@ Sommaire
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
 Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant mes années de collège et de lycée, j'ai toujours préféré travailler seule. J'étais confiante, j'avais l'envie, bref, j'en avais la capacité et je préférais que ça se passe comme ça. Pourquoi se diviser le travail alors qu'il peut être bâclé, non fait ou mal fait? Inutile de déléguer quand on est mieux servi par soi-même. A la fac, tout a changé. Même si je le voulais, les projets sont trop lourds pour êtres menés à terme seule. Aucun de nous n'a eu le choix, nous avons dû répartir les tâches et se faire confiance les uns les autres. Aujourd'hui, après 3 gros projets en équipe, j'en suis contente. Et même si je ne le dis pas forcément à chaque rendu, je remercie mes camarades pour leurs efforts à mes côtés. Je leur suis reconnaissante pour leur travail, leurs remarques pertinentes, leurs raisonnements, leurs mots d'encouragement et leur persévérance. Je suis peut-être (et sans doute) tombée sur les bons, mais aujourd'hui je suis certaine que le travail d'équipe est une chance et une force à exploiter.
 </blockquote>
 
@@ -67,7 +67,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="32px" />
 </p>
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   <strong>Points clés de ce travail :</strong>
   <ul>
     <li>Prétraitement de volumes cérébraux 3D sous <strong>SPM12</strong> (recalage spatial, normalisation MNI, interpolation trilinéaire).</li>
@@ -77,9 +77,9 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   </ul>
 </blockquote>
 
-<details style="margin-bottom: 15px;">
-  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <p style="margin-top: 10px;">
+<details style="margin-bottom: 15px; color: #000000;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b style="color: #000000;">Détails du projet & Documents</b></summary>
+  <p style="margin-top: 10px; color: #000000;">
   - <b>Cadre :</b> Projet de Master 1 — <i>Toulouse NeuroImaging Center (ToNIC)</i> (Mars 2026 – Mai 2026)<br>
   - <b>Rapport IEEE :</b> <a href="./Quantification_TEP_French_ver.pdf">Projet Quantification TEP</a><br>
   - <b>Présentation :</b> <a href="./Presentation_Quantification_TEP.pdf">Support de présentation orale</a>
@@ -90,7 +90,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <img src="./tep.gif" width="98%" alt="Démonstration Quantification TEP" />
 </p>
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   <strong>Sujet :</strong> Analyse TEP des biomarqueurs cérébraux et des déficits métaboliques régionaux dans la maladie d'Alzheimer.<br/><br/>
   
   Pour ne rien vous cacher, ce projet était le plus intéressant sur lequel j'ai pu travailler. Nous étions trois, munis de nos ordinateurs, des données DICOM, avec en face MATLAB et SPM12 qui nous regardaient droit dans les yeux. Notre encadrant nous avait fourni une base de données de plusieurs patients, l'objectif étant d'effectuer un pré-traitement, de calculer des valeurs de SUV et de SUVr afin de quantifier le métabolisme de chacun, pour mener finalement aux analyses staistiques des résultats. Les patients étaient différenciés par l'évolution de la maladie d'Alzheimer. Soit ils étaient bien portants, soit ils était moyennement atteints ou complètement affectés. Grâce aux données XML nous savions qui était quoi, mais il fallait le prouver.
@@ -121,7 +121,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
 </p>
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   <strong>Points clés de ce travail :</strong>
   <ul>
     <li>Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.</li>
@@ -130,9 +130,9 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   </ul>
 </blockquote>
 
-<details style="margin-bottom: 15px;">
-  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <p style="margin-top: 10px;">
+<details style="margin-bottom: 15px; color: #000000;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b style="color: #000000;">Détails du projet & Documents</b></summary>
+  <p style="margin-top: 10px; color: #000000;">
   - <b>Cadre :</b> Projet de Master 1 — <i>Faculté des Sciences et d'Ingénierie, Toulouse</i> (Fév 2026 – Mai 2026)<br>
   - <b>Présentation :</b> <a href="./C++_Project_presentation.pdf">Présentation Projet C++</a>
   </p>
@@ -142,8 +142,8 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <img src="./cpp.gif" width="99%" alt="Démonstration Interface C++ Qt" />
 </p>
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
-  De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devant ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose ; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors l'étau se resserait!
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devant ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose ; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé. Nous ne pouvions pas travailler dessus à domicile, les données étant strictly conservées sur les merveilleux Mac de la faculté de médecine. Alors l'étau se resserait!
 
   Au départ, l'interface était vide à l'exception d'une coupe, un slider, et... c'est tout. Le reste était à faire nous même. Pas de problème, nous avons la coupe axiale, il suffit d'afficher les coupes sagittales et frontales. Après plusieurs essais, rien. Ou alors l'image est inversée, coupée en deux, ou le slider "débordait", laissant plusieurs coupes dans l'oubli. Cette étape devait être la plus simple, mais elle nous donnait déjà du fil à retordre. Une fois passée, nous avons pu faire la répartition des tâches du mieux qu'on pouvait. Les objectifs étaient clairs, les méthodes nettement moins. 
  
@@ -173,7 +173,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 </p>
 
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   <strong>Points clés de ce travail :</strong>
   <ul>
     <li>Étude des stratégies de ciblage thérapeutique par vecteurs (AAV5/miRNA) franchissant la barrière hémato-encéphalique.</li>
@@ -181,9 +181,9 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   </ul>
 </blockquote>
 
-<details style="margin-bottom: 15px;">
-  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <p style="margin-top: 10px;">
+<details style="margin-bottom: 15px; color: #000000;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b style="color: #000000;">Détails du projet & Documents</b></summary>
+  <p style="margin-top: 10px; color: #000000;">
   - <b>Cadre :</b> Projet de Licence — <i>Laboratoire SOFTMAT, Toulouse</i> (Sep 2024 – Jan 2025)<br>
   - <b>Rapport IEEE :</b> <a href="./Vectorisation_ieee.pdf">Projet Vectorisation</a><br>
   - <b>Présentation :</b> <a href="./Vectorisation_presentation.pdf">Support de présentation orale</a>
@@ -194,7 +194,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   <img src="./vect.gif" width="95%" alt="Démonstration Vectorisation" />
 </p>
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
 
 Ce projet était un sujet de recherche bibliographique. Mon équipe et moi étions en Licence d'Électronique, Énergie et Automatique. Mais puisque nous étions en parcours santé, nous avons pu choisir un sujet correspondant. A dire vrai, ce travail est certainement la cause de mon intérêt pour les maladies neurodégénératives. Avant notre première rencontre avec l'encadrant, il fallait s'informer comme on le souhaitait. J'ai choisi de regarder des vidéos explicatives de courte durée, puis de visionner des témoignages de patients et de leurs famille. Une maladie n'est réellement comprise que lorsqu'on l'expérimente soi-même, ou à défaut, en la voyant elle et ses conséquences dans les yeux d'un autre et ceux de ses proches.
 
@@ -209,7 +209,7 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="20" height="20" /> Stages & Expériences
 
-<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   <strong>📌 Expérience :</strong> Immersion de terrain en milieu clinique et en laboratoire de recherche.
 </blockquote>
 
