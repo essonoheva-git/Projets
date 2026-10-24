@@ -50,7 +50,8 @@ Sommaire
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" />
+<span style="color: #FF0000; font-weight: bold;">Pro</span><span style="color: #000000; font-weight: bold;">jets</span> académiques
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
 Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant mes années de collège et de lycée, j'ai toujours préféré travailler seule. J'étais confiante, j'avais l'envie, bref, j'en avais la capacité et je préférais que ça se passe comme ça. Pourquoi se diviser le travail alors qu'il peut être bâclé, non fait ou mal fait? Inutile de déléguer quand on est mieux servi par soi-même. A la fac, tout a changé. Même si je le voulais, les projets sont trop lourds pour êtres menés à terme seule. Aucun de nous n'a eu le choix, nous avons dû répartir les tâches et se faire confiance les uns les autres. Aujourd'hui, après 3 gros projets en équipe, j'en suis contente. Et même si je ne le dis pas forcément à chaque rendu, je remercie mes camarades pour leurs efforts à mes côtés. Je leur suis reconnaissante pour leur travail, leurs remarques pertinentes, leurs raisonnements, leurs mots d'encouragement et leur persévérance. Je suis peut-être (et sans doute) tombée sur les bons, mais aujourd'hui je suis certaine que le travail d'équipe est une chance et une force à exploiter.
