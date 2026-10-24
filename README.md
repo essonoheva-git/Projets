@@ -20,10 +20,10 @@ Sommaire
 </span>
 </summary>
 <ul style="margin: 12px 0 4px 24px; padding: 0; list-style-type: disc; font-size: 14px; line-height: 1.6;">
-<li style="margin-bottom: 4px;"><a href="#-à-propos" style="color: #ffcccc; text-decoration: underline;">Qui suis-je? (Mystère, mystère)</a></li>
-<li style="margin-bottom: 4px;"><a href="#-à-propos" style="color: #ffcccc; text-decoration: underline;">Mon Mer-vei-lleux Parcours</a></li>
+<li style="margin-bottom: 4px;"><a href="#-qui-suis-je-mystère-mystère" style="color: #ffcccc; text-decoration: underline;">Qui suis-je? (Mystère, mystère)</a></li>
+<li style="margin-bottom: 4px;"><a href="#-mon-mer-vei-lleux-parcours" style="color: #ffcccc; text-decoration: underline;">Mon Mer-vei-lleux Parcours</a></li>
 <li style="margin-bottom: 4px;"><a href="#-projets-académiques" style="color: #ffcccc; text-decoration: underline;">Mes Projets Académiques</a></li>
-<li style="margin-bottom: 4px;"><a href="#-stages--expériences" style="color: #ffcccc; text-decoration: underline;"> Mes Stages & Expériences pro</a></li>
+<li style="margin-bottom: 4px;"><a href="#-stages--expériences" style="color: #ffcccc; text-decoration: underline;">Mes Stages & Expériences pro</a></li>
 <li style="margin-bottom: 0;"><a href="#-compétences--technical-skills" style="color: #ffcccc; text-decoration: underline;">Mes Compétences</a></li>
 </ul>
 </details>
@@ -34,6 +34,16 @@ Sommaire
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
   Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le pédigré monumental de l'intitulé du concours. (AVOUEZ que ça envoie). Mon domaine d'étude est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!!
+</blockquote>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-16.svg" width="20" height="20" /> Mon Mer-vei-lleux Parcours
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
+  Bienvenue dans la section dédiée à mon parcours académique et professionnel. Vous retrouverez ci-dessous le détail de mes projets universitaires ainsi que mes expériences de stage.
 </blockquote>
 
 <p align="center">
@@ -67,13 +77,13 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   </ul>
 </blockquote>
 
-<details>
-  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <br>
-
-- **Cadre :** Projet de Master 1 — *Toulouse NeuroImaging Center (ToNIC)* (Mars 2026 – Mai 2026)
-- **Rapport IEEE :** [`Projet Quantification TEP`](./Quantification_TEP_French_ver.pdf)
-- **Présentation :** [`Support de présentation orale`](./Presentation_Quantification_TEP.pdf)
+<details style="margin-bottom: 15px;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <p style="margin-top: 10px;">
+  - <b>Cadre :</b> Projet de Master 1 — <i>Toulouse NeuroImaging Center (ToNIC)</i> (Mars 2026 – Mai 2026)<br>
+  - <b>Rapport IEEE :</b> <a href="./Quantification_TEP_French_ver.pdf">Projet Quantification TEP</a><br>
+  - <b>Présentation :</b> <a href="./Presentation_Quantification_TEP.pdf">Support de présentation orale</a>
+  </p>
 </details>
 
 <p align="center">
@@ -92,7 +102,7 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   Enfin, en regroupant plusieurs données des patients, âge, sexe, scores FAQ (attestant de l'autonomie), SUV et SUVr selon les régions cérébrales, et statuts (Contrôle, Moyennement atteint, Atteint), nous avons mené nos analyses statistiques. A l'issue de ce projet, nous avons écris un article au format IEEE détaillant le cheminement, les étapes et les résultats. Puis, nous avons présenté pendant 20 minutes notre rendu devant un jury de chercheurs et de professeurs au ToNIC. Je vous renvoie vers les documents du projet pour en connaître les détails et résultats, si vous êtes intéressé.
 </blockquote>
 
-<p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
+<p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
@@ -120,12 +130,12 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   </ul>
 </blockquote>
 
-<details>
-  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <br>
-
-- **Cadre :** Projet de Master 1 — *Faculté des Sciences et d'Ingénierie, Toulouse* (Fév 2026 – Mai 2026)
-- **Présentation :** [`Présentation Projet C++`](./C++_Project_presentation.pdf)
+<details style="margin-bottom: 15px;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <p style="margin-top: 10px;">
+  - <b>Cadre :</b> Projet de Master 1 — <i>Faculté des Sciences et d'Ingénierie, Toulouse</i> (Fév 2026 – Mai 2026)<br>
+  - <b>Présentation :</b> <a href="./C++_Project_presentation.pdf">Présentation Projet C++</a>
+  </p>
 </details>
 
 <p align="center">
@@ -133,19 +143,19 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
 </p>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0;">
- De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devant ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose ; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors l'étau se resserait!
+  De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devant ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose ; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors l'étau se resserait!
 
- Au départ, l'interface était vide à l'exception d'une coupe, un slider, et... c'est tout. Le reste était à faire nous même. Pas de problème, nous avons la coupe axiale, il suffit d'afficher les coupes sagittales et frontales. Après plusieurs essais, rien. Ou alors l'image est inversée, coupée en deux, ou le slider "débordait", laissant plusieurs coupes dans l'oubli. Cette étape devait être la plus simple, mais elle nous donnait déjà du fil à retordre. Une fois passée, nous avons pu faire la répartition des tâches du mieux qu'on pouvait. Les objectifs étaient clairs, les méthodes nettement moins. 
+  Au départ, l'interface était vide à l'exception d'une coupe, un slider, et... c'est tout. Le reste était à faire nous même. Pas de problème, nous avons la coupe axiale, il suffit d'afficher les coupes sagittales et frontales. Après plusieurs essais, rien. Ou alors l'image est inversée, coupée en deux, ou le slider "débordait", laissant plusieurs coupes dans l'oubli. Cette étape devait être la plus simple, mais elle nous donnait déjà du fil à retordre. Une fois passée, nous avons pu faire la répartition des tâches du mieux qu'on pouvait. Les objectifs étaient clairs, les méthodes nettement moins. 
  
- Je me suis chargée des segmentations des tissus (différentiation des os et des tissus mous), suivi de la LUT (Look Up Table) pour une vision optimale des contrastes grâce à une palette de couleur JET, et j'ai appliqué un filtre gaussien qui, bon, "faisait le taff". Le noyau de la convolution spatiale étant trop petit, les effets du filtre était moindres, mais nous en notions quand même les effets. Nous avons tous fait une DRR et avons finalement choisi celle qui correspondait le mieux à l'illustration de l'encadrant (pas la mienne, qui était trop "blanche"...).
+  Je me suis chargée des segmentations des tissus (différentiation des os et des tissus mous), suivi de la LUT (Look Up Table) pour une vision optimale des contrastes grâce à une palette de couleur JET, et j'ai appliqué un filtre gaussien qui, bon, "faisait le taff". Le noyau de la convolution spatiale étant trop petit, les effets du filtre était moindres, mais nous en notions quand même les effets. Nous avons tous fait une DRR et avons finalement choisi celle qui correspondait le mieux à l'illustration de l'encadrant (pas la mienne, qui était trop "blanche"...).
 
- Mes camarades ont travaillé sur le faisceau de radiothérapie et l'interface. Les paramètres à prendre en compte étant très dense, nous nous sommes entraidés au maximum. L'interface devait être attractive et regrouper plusieurs options qui devaient faciliter le diagnostic, alors nous avons réfléchi ensemble au thème qui rayonnait le mieux. La navigation sur chaque coupe devait être fluide alors nous avons rajouté des sliders correctement alignés, des curseurs, des coordonées couplées aux valeurs de dose en Gray. Quant au faisceau, il devait prendre en compte la profondeur de pénétration et l'atténuation de dose.
+  Mes camarades ont travaillé sur le faisceau de radiothérapie et l'interface. Les paramètres à prendre en compte étant très dense, nous nous sommes entraidés au maximum. L'interface devait être attractive et regrouper plusieurs options qui devaient faciliter le diagnostic, alors nous avons réfléchi ensemble au thème qui rayonnait le mieux. La navigation sur chaque coupe devait être fluide alors nous avons rajouté des sliders correctement alignés, des curseurs, des coordonées couplées aux valeurs de dose en Gray. Quant au faisceau, il devait prendre en compte la profondeur de pénétration et l'atténuation de dose.
 
- Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la main. Ce projet m'aura appris qu'un mauvais départ ne veut rien dire. Quand on est assez bas pour toucher le sol, on ne peut qu'aller vers le haut (Hahaha, rire nerveux*). Bien que ne je ne puisse pas vous envoyer vers l'interface graphique elle-même, je vous invite à regarder le document de présentation, qui illustre assez bien nos résultats!
+  Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la main. Ce projet m'aura appris qu'un mauvais départ ne veut rien dire. Quand on est assez bas pour toucher le sol, on ne peut qu'aller vers le haut (Hahaha, rire nerveux*). Bien que ne je ne puisse pas vous envoyer vers l'interface graphique elle-même, je vous invite à regarder le document de présentation, qui illustre assez bien nos résultats!
 </blockquote>
 
 
-<p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
+<p align="right"><a href="#-sommaire--table-des-matières">↑ Retour au sommaire</a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=8&width=1000" width="100%" />
@@ -171,13 +181,13 @@ Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant m
   </ul>
 </blockquote>
 
-<details>
-  <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
-  <br>
-
-- **Cadre :** Projet de Licence — *Laboratoire SOFTMAT, Toulouse* (Sep 2024 – Jan 2025)
-- **Rapport IEEE :** [`Projet Vectorisation`](./Vectorisation_ieee.pdf)
-- **Présentation :** [`Support de présentation orale`](./Vectorisation_presentation.pdf)
+<details style="margin-bottom: 15px;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
+  <p style="margin-top: 10px;">
+  - <b>Cadre :</b> Projet de Licence — <i>Laboratoire SOFTMAT, Toulouse</i> (Sep 2024 – Jan 2025)<br>
+  - <b>Rapport IEEE :</b> <a href="./Vectorisation_ieee.pdf">Projet Vectorisation</a><br>
+  - <b>Présentation :</b> <a href="./Vectorisation_presentation.pdf">Support de présentation orale</a>
+  </p>
 </details>
 
 <p align="center">
