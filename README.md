@@ -42,6 +42,10 @@ Sommaire
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="20" height="20" /> Projets académiques
 
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+Ci-dessous, vous trouverez mes projets, toujours réalisés en équipe. Durant mes années de collège et de lycée, j'ai toujours préféré travailler seule. J'étais confiante, j'avais l'envie, bref, j'en avais la capacité et je préférais que ça se passe comme ça. Pourquoi se diviser le travail alors qu'il peut être bâclé, non fait ou mal fait? Inutile de déléguer quand on est mieux servi par soi-même. A la fac, tout a changé. Même si je le voulais, les projets sont trop lourds pour êtres menés à terme seule. Aucun de nous n'a eu le choix, nous avons dû répartir les tâches et se faire confiance les uns les autres. Aujourd'hui, après 3 gros projets en équipe, j'en suis contente. Et même si je ne le dis pas forcément à chaque rendu, je remercie mes camarades pour leurs efforts à mes côtés. Je leur suis reconnaissante pour leur travail, leurs remarques pertinentes, leurs raisonnements, leurs mots d'encouragement et leur persévérance. Je suis peut-être (et sans doute) tombée sur les bons, mais aujourd'hui je suis certaine que le travail d'équipe est une chance et une force à exploiter.
+</blockquote>
+
 <!-- PROJET 01 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=01.%20Quantification%20m%C3%A9tabolique%20c%C3%A9r%C3%A9brale%20dans%20la%20maladie%20d%27Alzheimer%20%28TEP%2FIRM%29&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 01" />
@@ -107,6 +111,15 @@ Sommaire
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32px" />
 </p>
 
+<blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
+  <strong>Points clés de ce travail :</strong>
+  <ul>
+    <li>Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.</li>
+    <li>Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).</li>
+    <li>Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.</li>
+  </ul>
+</blockquote>
+
 <details>
   <summary><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b>Détails du projet & Documents</b></summary>
   <br>
@@ -120,13 +133,17 @@ Sommaire
 </p>
 
 <blockquote style="border-left: 4px solid #008080; padding-left: 12px; margin-left: 0;">
-  <strong>Points clés :</strong>
-  <ul>
-    <li>Développement d'une interface interactive de visualisation 3D de données scanner DICOM en C++.</li>
-    <li>Filtrage gaussien 2D par convolution, tables de correspondance (LUT / Palette Jet).</li>
-    <li>Simulation de faisceau de radiothérapie, reconstruction de radiographies numériques (DRR) et segmentation anatomique temps réel.</li>
-  </ul>
+ De tous mes projets, celui ci respirait le mot "challenge" en police 40, en gras, et surligné en rouge. Et je ne veux pas dire le "bon" type de challenge mais celui qui te donne la boule au ventre, des cauchemars la nuit, et des sueurs froides devat ton ordinateur. Faisceau de Radiothérapie, coupes anatomiques, DRR, simulation de pénétration de dose; je connaissais ces termes, je pouvais les définir, les noter sur un papier. Les coder en C++ était une autre histoire. Cela ne veut pas dire que nous n'y sommes pas arrivés, mais nous avons bataillé dur mes camarades et moi. Nous ne pouvions pas travailler dessus à domicile, les données étant strictement conservées sur les merveilleux Mac de la faculté de médecine. Alors c'était serré.
+
+ Au départ, l'interface était vide à l'exception d'une coupe, un slider, et... c'est tout. Le reste était à faire nous même. Pas de problème, nous avons la coupe axiale, il suffit d'afficher les coupes sagittales et frontales. Après plusieurs essais, rien. Ou alors l'image est inversée, coupée en deux, ou le slider "débordait", laissant plusieurs coupes dans l'oubli. Cette étape devait être la plus simple, mais elle nous donnait déjà du fil à retordre. Une fois passée, nous avons pu faire la répartition des tâches du mieux qu'on pouvait. Les objectifs étaient clairs, les méthodes nettement moins. 
+ 
+ Je me suis chargée des segmentations des tissus (différentiation des os et des tissus mous), suivi de la LUT (Look Up Table) pour une vision optimale des contrastes grâce à une palette de couleur JET, et j'ai appliqué un filtre gaussien qui, bon, "faisait le taff". Le noyau de la convolution spatiale étant trop petit, les effets du filtre était moindres, mais nous en notions quand même les effets. Nous avons tous fait une DRR et avons finalement choisi celle qui correspondait le mieux à l'illustration de l'encadrant (pas la mienne, qui était trop "blanche"...).
+
+Mes camarades ont travaillé sur le faisceau de radiothérapie et l'interface. Les paramètres à prendre en compte étant très dense, nous nous sommes entraidés au maximum. L'interface devait être attractive et regrouper plusieurs options qui devaient faciliter le diagnostic, alors nous avons réfléchi ensemble au thème qui rayonnait le mieux. La navigation sur chaque coupe devait être fluide alors nos avons rajouté des sliders correctement alignés, des curseurs, des coordonées couplées aux valeurs de dose en Gray. Quant au faisceau, il devait prendre en compte la profondeur de pénétration et l'atténuation de dose.
+
+Finalement, malgré un début (TRES) mouvementé, nous avons réussi haut la main. Bien que ne je ne puisse pas vous envoyer vers l'interface graphique elle-même, je vous invite à regarder le document de présentation, qui illustre assez bien nos résultats!
 </blockquote>
+
 
 <p align="right"><a href="#sommaire--table-des-matières">↑ Retour au sommaire</a></p>
 
