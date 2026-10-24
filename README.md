@@ -1,32 +1,46 @@
+<!-- BANNIÈRE EN-TÊTE PRINCIPALE PLEINE LARGEUR -->
 <div style="background-color: #3D0C11; padding: 35px 20px; border-radius: 8px; text-align: center; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box;">
-<h1 style="margin: 0 0 8px 0; font-size: 28px; color: #ffffff; border: none; font-weight: 700;">
-Hegirziana Heva OBONE ESSONO
-</h1>
-<p style="margin: 0 0 20px 0; font-size: 15px; color: #f0f0f0; font-weight: 400;">
-M2 Radiophysique Médicale &bull; Université de Toulouse
-</p>
-<div style="margin-bottom: 25px;">
-<a href="https://www.linkedin.com/in/heva-essono" target="_blank" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 4px;" />
-</a>
-</div>
-<details style="display: inline-block; text-align: left; background-color: rgba(0, 0, 0, 0.25); padding: 8px 16px; border-radius: 6px; cursor: pointer;">
-<summary style="font-weight: 600; font-size: 14px; outline: none; cursor: pointer; list-style: none; color: #ffffff;">
-<span style="display: inline-flex; align-items: center; gap: 8px;">
-<span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center;">
-<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/list-unordered-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Menu" />
-</span>
-Sommaire
-</span>
-</summary>
-<ul style="margin: 12px 0 4px 24px; padding: 0; list-style-type: disc; font-size: 14px; line-height: 1.6;">
-<li style="margin-bottom: 4px;"><a href="#-qui-suis-je-mystère-mystère" style="color: #ffcccc; text-decoration: underline;">Qui suis-je? (Mystère, mystère)</a></li>
-<li style="margin-bottom: 4px;"><a href="#-mon-mer-vei-lleux-parcours" style="color: #ffcccc; text-decoration: underline;">Mon Mer-vei-lleux Parcours</a></li>
-<li style="margin-bottom: 4px;"><a href="#-projets-académiques" style="color: #ffcccc; text-decoration: underline;">Mes Projets Académiques</a></li>
-<li style="margin-bottom: 4px;"><a href="#-stages--expériences" style="color: #ffcccc; text-decoration: underline;">Mes Stages & Expériences pro</a></li>
-<li style="margin-bottom: 0;"><a href="#-compétences--technical-skills" style="color: #ffcccc; text-decoration: underline;">Mes Compétences</a></li>
-</ul>
-</details>
+
+  <!-- NOM & FORMATION -->
+  <h1 style="margin: 0 0 8px 0; font-size: 28px; color: #ffffff; border: none; font-weight: 700;">
+    Hegirziana Heva OBONE ESSONO
+  </h1>
+  <p style="margin: 0 0 20px 0; font-size: 15px; color: #f0f0f0; font-weight: 400;">
+    M2 Radiophysique Médicale &bull; Université de Toulouse
+  </p>
+
+  <!-- BADGES : LOCALISATION + LINKEDIN (BLEU ORIGINAL) + GMAIL -->
+  <p align="center" style="margin-bottom: 25px;">
+    <img src="https://img.shields.io/badge/📍-Toulouse,_France-lightgrey?style=for-the-badge" alt="Localisation" />
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/heva-essono" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:essono.heva@gmail.com">
+      <img src="https://img.shields.io/badge/Email-essono.heva%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
+  <!-- MENU DÉROULANT DU SOMMAIRE -->
+  <details style="display: inline-block; text-align: left; background-color: rgba(0, 0, 0, 0.25); padding: 8px 16px; border-radius: 6px; cursor: pointer;">
+    <summary style="font-weight: 600; font-size: 14px; outline: none; cursor: pointer; list-style: none; color: #ffffff;">
+      <span style="display: inline-flex; align-items: center; gap: 8px;">
+        <span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center;">
+          <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/list-unordered-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Menu" />
+        </span>
+        Sommaire
+      </span>
+    </summary>
+    <ul style="margin: 12px 0 4px 24px; padding: 0; list-style-type: disc; font-size: 14px; line-height: 1.6;">
+      <li style="margin-bottom: 4px;"><a href="#-qui-suis-je-mystère-mystère" style="color: #ffcccc; text-decoration: underline;">Qui suis-je? (Mystère, mystère)</a></li>
+      <li style="margin-bottom: 4px;"><a href="#-mon-mer-vei-lleux-parcours" style="color: #ffcccc; text-decoration: underline;">Mon Mer-vei-lleux Parcours</a></li>
+      <li style="margin-bottom: 4px;"><a href="#-projets-académiques" style="color: #ffcccc; text-decoration: underline;">Mes Projets Académiques</a></li>
+      <li style="margin-bottom: 4px;"><a href="#-stages--expériences" style="color: #ffcccc; text-decoration: underline;">Mes Stages & Expériences pro</a></li>
+      <li style="margin-bottom: 0;"><a href="#-compétences--technical-skills" style="color: #ffcccc; text-decoration: underline;">Mes Compétences</a></li>
+    </ul>
+  </details>
+
 </div>
 
 
