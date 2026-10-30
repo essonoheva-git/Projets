@@ -305,9 +305,6 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=Stagiaire%20en%20recherche%20-%20Laboratoire%20Laplace%20Groupe%20PRHE&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
 </p>
 
-<p align="center">
-  <img src="./im_laplace.gif" width="98%" alt="Expériences Laplace" />
-</p>
 
 | Période | Poste | Structure | Missions clés |
 | :--- | :--- | :--- | :--- |
