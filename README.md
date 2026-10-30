@@ -312,7 +312,7 @@ traitement (CTV, PTV), créations des champs, choix des particules et des energi
 <details style="margin-bottom: 15px; color: #000000;">
   <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b style="color: #000000;">Ressources liées au stage</b></summary>
   <p style="margin-top: 10px; color: #000000;">
-  - <b>Rapport de stage :</b> <a href="./Rapport_Stage_ICA_Obone_Essono">Stage ICA</a><br>
+  - <b>Rapport de stage :</b> <a href="./Rapport_Stage_ICA_Obone_Essono.pdf">Stage ICA</a><br>
   </p>
 </details>
 
