@@ -306,7 +306,7 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 </p>
 
 <p align="center">
-  <img src="./ica.gif" width="98%" alt="Démonstration Stage ICA" />
+  <img src="./im_laplace.gif" width="98%" alt="Expériences Laplace" />
 </p>
 
 | Période | Poste | Structure | Missions clés |
