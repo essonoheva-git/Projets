@@ -51,10 +51,10 @@
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
   <p style="margin-top: 0;">
-  Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le respect monumental imposé par l'intitulé du concours. (AVOUEZ que ça envoie).
+  Bonjour, (ou bonsoir pour les oiseaux de nuit) et bienvenue sur ma "page"! Avant d'aller plus loin, je tiens à signaler que le ton employé ici se veut léger, cordial, et qu'il ne réflète pas mon comportement dans des situations sérieuses. Il réflète simplement ma personnalité. Simple, joviale, accueillante. Si vous êtes ici, c'est que vous souhaitez en savoir plus sur moi et mon parcours. Au moment où j'écris ce paragaphe, je suis en Master de Radiophysique Médicale, en recherche de stage, et préparant activement le Diplôme de Qualification en Physique Radiologique et Médicale (DQPRM). Je ne l'admettrai jamais à haute voix, mais une des raisons qui m'a poussée dans ce domaine est le respect monumental imposé par l'intitulé du concours. (AVOUEZ que ça envoie).
   </p>
 <p style="margin-top: 0;">
-Mon domaine d'études est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!!
+Mon domaine d'études est une fierté pour moi, et bien qu'il ne soit pas toujours évident, je me réjouis de chaque réussite et de chaque notion apprise. Toute victoire (même les petites) compte, et je peux affirmer que sur ce chemin là, j'atteins les objectifs que je m'étais fixée plus jeune : "me lever chaque matin avec la conviction qu'en rentrant, j'aurai apporté mon savoir-faire et mon savoir-être pour guérir, soulager et améliorer le quotidien de mon prochain". Enfin bon, assez parlé de moi, n'hésitez pas (PAS DU TOUT) à scroller!! Pour parler de moi... 
   
   </p>
     
@@ -67,7 +67,7 @@ Mon domaine d'études est une fierté pour moi, et bien qu'il ne soit pas toujou
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-16.svg" width="20" height="20" /> <span style="color: #FF0000; font-weight: bold;">MON MER-VEI-LLEUX</span><span style="color: #000000; font-weight: bold;"> PARCOURS</span>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-  <strong>Master 2 Radiphysique Médicale | Université de Toulouse (2026-En cours)</strong>
+  <strong>Master 2 Radiophysique Médicale | Université de Toulouse (2026-En cours)</strong>
   <ul>
     <li>Radiothérapie, Dosimétrie, Imagerie Médicale (IRM, Échographie, TEP, TEMP), Rayonnements ionisants, Radioprotection, Simulation Monte Carlo</li>
 
@@ -75,7 +75,7 @@ Mon domaine d'études est une fierté pour moi, et bien qu'il ne soit pas toujou
 </blockquote>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
-  <strong>Master 1 Radiphysique Médicale | Université de Toulouse (2025-2026)</strong>
+  <strong>Master 1 Radiophysique Médicale | Université de Toulouse (2025-2026)</strong>
 </blockquote>
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
@@ -294,6 +294,18 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=Stagiaire%20en%20Physique%20Médicale%20-%20Institut%20de%20Cancérologie&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
+</p>
+
+<p align="center">
+  <img src="./ica.gif" width="98%" alt="Démonstration Stage ICA" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=Stagiaire%20en%20recherche%20-%20Laboratoire%20Laplace%20Groupe%20PRHE&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
+</p>
+
+<p align="center">
   <img src="./ica.gif" width="98%" alt="Démonstration Stage ICA" />
 </p>
 
@@ -304,7 +316,3 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:008080&height=120&section=footer&width=100%" width="100%" />
-</p>
