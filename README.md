@@ -309,9 +309,26 @@ traitement (CTV, PTV), créations des champs, choix des particules et des energi
   </ul>
 </blockquote>
 
+<details style="margin-bottom: 15px; color: #000000;">
+  <summary style="cursor: pointer;"><span style="background-color: #111111; padding: 4px 5px; border-radius: 4px; display: inline-flex; align-items: center; vertical-align: middle; margin-right: 6px;"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-directory-16.svg" width="14" height="14" style="filter: invert(100%);" alt="Dossier" /></span><b style="color: #000000;">Ressources liées au stage</b></summary>
+  <p style="margin-top: 10px; color: #000000;">
+  - <b>Rapport de stage :</b> <a href="./Rapport_Stage_ICA_Obone_Essono">Stage ICA</a><br>
+  </p>
+</details>
+
 <p align="center">
   <img src="./ica.gif" width="98%" alt="Démonstration Stage ICA" />
 </p>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+<p style="margin-top: 0;">
+Pendant l'été 2026, j'ai pris l'initiative de candidater à l'ICA pour un stage en Physique Médicale. J'avais une idée du métier, mais elle était bien trop vague. Je voulais être sur le terrain, voir le quotidien, les déroulés, les planifications de traitement, tout. J'ai candidaté puis j'ai douté : aucune chance d'y être acceptée en niveau M1, ou du moins, je n'aurai pas autant de liberté d'observation que je l'espère.
+</p>
+  <p>Je me suis largement trompée. Non seulement j'ai été acceptée, mais en plus l'expérience allait au-delà de mes attentes. J'ai pu toucher à tout, aux équipements, au TPS, aux appareils de mesure, aux imageurs portals et j'en passe. J'ai pensé qu'il y avait forcément une limite quelque part, alors j'ai demandé si je pouvais manipuler un peu plus le TPS. Réponse reçue : "Prends les clés, vas dans la salle de scanner, et entraînes-toi comme tu veux". Ce n'est pas seulement la réponse qui m'a marquée, mais la confiance qu'elle m'a inspirée. 
+  </p>
+  <p>J'ai été accompagnée et encouragée. Accompagnée dans mes interrogations, mes doutes et mes erreurs. Encouragée dans mon parcours et mes prises d'initiative. Pour ça je dis merci. Merci à l'équipe du service de Physique Médicale de l'ICA avec qui je garde de très bons souvenirs. Merci à mes encadrants pour leur pédagogie, pour avoir toujours pris le temps.</p>
+  <p>Le Rapport de stage ci-dessus est en réalité une ébauche du rendu final. Pour ne pas aller trop loin dans les détails afin de respecter la privacité des patients, ainsi que certaines particularités liées au service, je l'ai réduit et épinglé ici.</p>
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=Stagiaire%20en%20recherche%20-%20Laboratoire%20Laplace%20Groupe%20PRHE&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
@@ -334,15 +351,10 @@ traitement (CTV, PTV), créations des champs, choix des particules et des energi
 
 <blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
 <p style="margin-top: 0;">
-Pour des raisons de confidentialité et comme demandé par la structure, je ne suis pas autorisée à partager en profondeur cette expérience. Par contre, je peux vous renvoyer vers une ébauche de recherche bibliographique menée par moi-même afin de faciliter l'avancée d'une doctorante.
+Ce stage s'est inscrit dans le cadre de la finalisation de ma Licence EEA. J'ai souhaité voir de très près le monde de la recherche. Pour des raisons de confidentialité et comme demandé par la structure, je ne suis pas autorisée à partager en profondeur cette expérience. Mais j'espère qu'un listing de mes tâches vous donne une assez bonne idée générale.
 </p>
 </blockquote>
 
-
-| Période | Poste | Structure | Missions clés |
-| :--- | :--- | :--- | :--- |
-| **Juin – Juil 2026** | Stagiaire Physique Médicale | Institut de Cancérologie d'Akanda (ICA) | Assurance qualité LINAC, simulateur CT, calibrateur ISOMED · Contourage TPS (CTV, PTV)|
-| **Juin – Juil 2025** | Stagiaire Recherche | Groupe PRHE — Laboratoire LAPLACE | Plasmas froids · Espèces réactives (ROS/RNS) · Décontamination biologique |
 
 <p align="right"><a href="#-sommaire--table-of-contents">↑ Retour au sommaire</a></p>
 
