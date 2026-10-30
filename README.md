@@ -297,6 +297,18 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=Stagiaire%20en%20Physique%20Médicale%20-%20Institut%20de%20Cancérologie&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
 </p>
 
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  <strong>Points clés de cette expérience :</strong>
+  <ul>
+    <li> Immersion au sein des services de Radiothérapie et de Médecine Nucléaire. </li>
+    <li>Tests d’assurance qualité sur les équipements de radiothérapie (LINAC, simulateur CT, calibrateur de dose ISOMED).</li>
+    <li>Pratique du Système de Planification de Traitement; délimitation des organes à risque, contourage des volumes de
+traitement (CTV, PTV), créations des champs, choix des particules et des energies).</li>
+     <li>Étude et application de la règlementation en radioprotection en vigueur.</li>
+     <li>Gestion des déchets radioactifs.</li>
+  </ul>
+</blockquote>
+
 <p align="center">
   <img src="./ica.gif" width="98%" alt="Démonstration Stage ICA" />
 </p>
@@ -304,6 +316,27 @@ A l'issu de ce projet, nous avons rédigé un article au format IEEE en anglais,
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D0C11,100:5C0612&height=55&section=header&text=Stagiaire%20en%20recherche%20-%20Laboratoire%20Laplace%20Groupe%20PRHE&fontSize=16&fontColor=ffffff" width="100%" alt="Projet 03" />
 </p>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+  <strong>Points clés de cette expérience :</strong>
+  <ul>
+    <li> Intégration d'un groupe de recherche en intéractions plasma/matière. </li>
+    <li> Étude expérimentale des interactions plasma froid / micro-organismes</li>
+    <li>Gestion des décharges électriques (fréquence, tension, durée, régime).</li>
+     <li>Préparations de solutions, mesures de PH.</li>
+     <li>Détection d’espèces au spectrophotomètre.</li>
+  </ul>
+</blockquote>
+
+<p align="center">
+  <img src="./im_laplace_new.gif" width="98%" alt="Expériences Laplace" />
+</p>
+
+<blockquote style="border-left: 4px solid #3D0C11; padding-left: 12px; margin-left: 0; color: #000000;">
+<p style="margin-top: 0;">
+Pour des raisons de confidentialité et comme demandé par la structure, je ne suis pas autorisée à partager en profondeur cette expérience. Par contre, je peux vous renvoyer vers une ébauche de recherche bibliographique menée par moi-même afin de faciliter l'avancée d'une doctorante.
+</p>
+</blockquote>
 
 
 | Période | Poste | Structure | Missions clés |
